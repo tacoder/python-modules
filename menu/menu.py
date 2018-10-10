@@ -1,11 +1,18 @@
 #!/usr/bin/python
 import sys,os
 import curses
+import json
 
 stdscrObj = None
 
+import logging
+logger = logging.getLogger('myapp')
+hdlr = logging.FileHandler('/var/tmp/myapp.log')
+formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
+hdlr.setFormatter(formatter)
+logger.addHandler(hdlr) 
+logger.setLevel(logging.DEBUG)
 '''
-
 menu
 
 design attributes:
@@ -25,18 +32,20 @@ functions to support:
     highlight item no i
     move up
     move down
-
 '''
 
 
 '''
-TODO: 
-update default scroll padding to adjust with the height of menu.
-Set static variables.
+TODO:
+figure out default colors mapping! -- can we possibly move colors out of this class ? maybe, maybe not.
 Implement said methods
 '''
 
 class menu:
+    def getDetails(self):
+        return         "self.offset = " + str(self.offset) + ", "
+        "self.currentlySelectedItemIndex = " + str(self.currentlySelectedItemIndex);
+
 
     def initDefaultColors(self):
         self.unselected = 0
@@ -49,76 +58,131 @@ class menu:
     def __init__(self, winObj, menuItems, menuBackgroundColor=curses.COLOR_BLACK, menuForegroundColor=curses.COLOR_WHITE, borderBackgroundColor=curses.COLOR_BLACK, borderForegroundColor=curses.COLOR_WHITE, leftPadding=2, scrollPadding=10):
 
         # Set design properties
-        self.design = {}
-        self.design['color'] = {}
-        self.design['color']['menu'] = {}
-        self.design['color']['menu']['bg'] = menuBackgroundColor
-        self.design['color']['menu']['fg'] = menuForegroundColor
-        self.design['color']['border'] = {}
-        self.design['color']['border']['bg'] = borderBackgroundColor
-        self.design['color']['border']['fg'] = borderForegroundColor
-        self.design['leftPadding'] = leftPadding
-        self.design['scrollPadding'] = scrollPadding
+        self.menuBGcolor = menuBackgroundColor
+        self.menuFGcolor = menuForegroundColor
+        self.borderBGcolor = borderBackgroundColor
+        self.borderFGcolor = borderForegroundColor
+        self.leftPadding = leftPadding
+        self.scrollPadding = scrollPadding
 
-
+        # Set menu static properties -- those that will not change generally        
         self.window = winObj
-        self.menuItems = menuItems
+        self.inputMenuItems = menuItems
         self.height, self.width = self.window.getmaxyx()
-        self.offset = 0
-        self.padding = 5
         self.menuStart = 1
         self.menuEnd = self.height - 2
-        self.selectedItem = 0
+        self.menuHeight = self.menuEnd - self.menuStart + 1
         self.size = len(menuItems)
-        self.LEFT_PAD = 2
+        self.firstItem = 0
+        self.lastItem = self.firstItem + self.size
+
+        # set dynamic properties - these will change regularly, and contain
+        self.offset = 0        
+        self.currentlySelectedItemIndex = 0
         self.initDefaultColors()
+
+        # Restrict scroll padding - 
+        if(self.scrollPadding > (self.height / 2)):
+            self.scrollPadding = self.height / 2
+
+        logger.debug("Initialized menu with params : " +    "self.menuBGcolor = " + str(self.menuBGcolor) + ", " + 
+        "self.menuFGcolor = " + str(self.menuFGcolor) + ", " + 
+        "self.borderBGcolor = " + str(self.borderBGcolor) + ", " + 
+        "self.borderFGcolor = " + str(self.borderFGcolor) + ", " + 
+        "self.leftPadding = " + str(self.leftPadding) + ", " + 
+        "self.scrollPadding = " + str(self.scrollPadding) + ", " + 
+        "self.window = " + str(self.window) + ", " + 
+        "self.inputMenuItems = " + str(self.inputMenuItems) + ", " + 
+        "self.height = " + str(self.height) + ", " + 
+        "self.menuStart = " + str(self.menuStart) + ", " + 
+        "self.menuEnd = " + str(self.menuEnd) + ", " + 
+        "self.menuHeight = " + str(self.menuHeight) + ", " + 
+        "self.size = " + str(self.size) + ", " + 
+        "self.firstItem = " + str(self.firstItem) + ", " + 
+        "self.lastItem = " + str(self.lastItem) + ", ");
 
     def drawBorder(self):
         self.window.border()
 
     def renderMenu(self):
         for index in range (0 + self.offset, self.menuEnd + self.offset):
-#        for index, menuItem in enumerate(self.menuItems):
-#            if(index >= self.menuEnd):
-#                break
-            menuItem = self.menuItems[index]
-            self.window.addstr(index + self.menuStart - self.offset, self.LEFT_PAD, menuItem["menuDesc"])
+            menuItem = self.inputMenuItems[index]
+            self.window.addstr(index + self.menuStart - self.offset, self.leftPadding, menuItem["menuDesc"])
 
     def render(self):
         self.drawBorder()
         self.renderMenu()
         self.selectItem(0)
 
-    def selectItem(self, currentItemNo, previousItemNo=None):
-        self.selectedItem = currentItemNo
-        if previousItemNo is not None:
-            self.colorItem(previousItemNo, self.unselected)
-        self.colorItem(currentItemNo, self.selected)
+    def renderPositionOf(self,itemToSelect):
+        return itemToSelect - self.offset
+
+    def adjustOffsetIfNeeded(self, itemToSelect):
+        renderPositionNew = self.renderPositionOf(itemToSelect);
+        needToAdjust = False
+        # If menu item to be selected is beyond permissible render bounds 
+
+        # Above currently selected object
+        if(( renderPositionNew < (self.menuStart + self.scrollPadding) ) and self.offset > 0):
+            needToAdjust = True
+            self.offset = itemToSelect - self.scrollPadding
+        
+        # Below currently selected object
+        if(( renderPositionNew > (self.menuEnd - self.scrollPadding) ) and self.offset < self.size - self.menuHeight):
+            needToAdjust = True
+            self.offset = itemToSelect + self.scrollPadding - self.size
+
+        return needToAdjust
+        # needToAdjust =  || (renderPositionNew > (self.menuEnd - self.scrollPadding))
+        # if(needToAdjust):
+        #     topRenderPosition = 
+        #     bottomRenderPosition = 
+
+    def selectItem(self, itemToSelect):
+        logger.debug("Selecting item : " + str(itemToSelect))
+        assert itemToSelect >= self.firstItem
+        assert itemToSelect <= self.lastItem
+
+        previousItemIndex = self.currentlySelectedItemIndex
+        self.currentlySelectedItemIndex = itemToSelect
+        isOffsetAdjust = self.adjustOffsetIfNeeded(itemToSelect);
+
+        # Need to render entire menu in case offset is adjusted
+        if(isOffsetAdjust):
+            logger.debug("Adjusted offset. : " + self.getDetails())
+            self.renderMenu()
+        # Delect previous item if offset was not adjusted.
+        else:
+            if previousItemIndex is not None:
+                self.colorItem(previousItemIndex, self.unselected)
+        self.colorItem(itemToSelect, self.selected)
 
     def colorItem(self, itemNoToColor, colorPairToApply):
         self.window.attron(curses.color_pair(colorPairToApply))
-        self.window.addstr(itemNoToColor + self.menuStart - self.offset, self.LEFT_PAD, self.menuItems[itemNoToColor]["menuDesc"])
+        self.window.addstr(itemNoToColor + self.menuStart - self.offset, self.leftPadding, self.inputMenuItems[itemNoToColor]["menuDesc"])
         self.window.attroff(curses.color_pair(colorPairToApply))
 
-    def increaseOffset(self):
-        self.offset = self.offset+1
-        self.renderMenu()
+    # def increaseOffset(self):
+    #     self.offset = self.offset+1
+    #     self.renderMenu()
 
     def down(self):
-        if(self.selectedItem - self.offset > self.height -4):
-            self.increaseOffset()
-        if(self.selectedItem < self.size-1):
-            self.selectItem(self.selectedItem + 1, self.selectedItem)
+        logger.debug("event: DOWN")
 
-    def decreaseOffset(self):
-        self.offset = self.offset-1
-        self.renderMenu()
+        # if(self.currentlySelectedItemIndex - self.offset > self.height -4):
+        #     self.increaseOffset()
+        # if(self.currentlySelectedItemIndex < self.size-1):
+        if( self.currentlySelectedItemIndex != self.lastItem ):
+            self.selectItem(self.currentlySelectedItemIndex + 1)
+
+    # def decreaseOffset(self):
+    #     self.offset = self.offset-1
+    #     self.renderMenu()
 
     def up(self):
-        if(self.selectedItem > self.offset):
-            self.decreaseOffset()
-        if(self.selectedItem > 0):
-            self.selectItem(self.selectedItem - 1, self.selectedItem)
+        logger.debug("event: UP")
+        if( self.currentlySelectedItemIndex != self.firstItem ):
+            self.selectItem(self.currentlySelectedItemIndex - 1)
 
 
 
@@ -183,4 +247,5 @@ def main():
     curses.wrapper(draw_menu)
 
 if __name__ == "__main__":
+    logger.debug("Entering main!")
     main()
