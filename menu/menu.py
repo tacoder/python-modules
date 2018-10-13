@@ -10,7 +10,7 @@ logger = logging.getLogger('myapp')
 hdlr = logging.FileHandler('/var/tmp/myapp.log')
 formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
 hdlr.setFormatter(formatter)
-logger.addHandler(hdlr) 
+logger.addHandler(hdlr)
 logger.setLevel(logging.DEBUG)
 '''
 menu
@@ -55,7 +55,7 @@ class menu:
     # def __init__(self, winObj, menuItems):
     #     self.__init__(self, winObj, menuItems, None, None, None, None, None, None)
 
-    def __init__(self, winObj, menuItems, menuBackgroundColor=curses.COLOR_BLACK, menuForegroundColor=curses.COLOR_WHITE, borderBackgroundColor=curses.COLOR_BLACK, borderForegroundColor=curses.COLOR_WHITE, leftPadding=2, scrollPadding=10):
+    def __init__(self, winObj, menuItems, menuBackgroundColor=curses.COLOR_BLACK, menuForegroundColor=curses.COLOR_WHITE, borderBackgroundColor=curses.COLOR_BLACK, borderForegroundColor=curses.COLOR_WHITE, leftPadding=2, scrollPadding=None):
 
         # Set design properties
         self.menuBGcolor = menuBackgroundColor
@@ -65,7 +65,7 @@ class menu:
         self.leftPadding = leftPadding
         self.scrollPadding = scrollPadding
 
-        # Set menu static properties -- those that will not change generally        
+        # Set menu static properties -- those that will not change generally
         self.window = winObj
         self.inputMenuItems = menuItems
         self.height, self.width = self.window.getmaxyx()
@@ -74,31 +74,34 @@ class menu:
         self.menuHeight = self.menuEnd - self.menuStart + 1
         self.size = len(menuItems)
         self.firstItem = 0
-        self.lastItem = self.firstItem + self.size
+        self.lastItem = self.firstItem + self.size - 1
 
         # set dynamic properties - these will change regularly, and contain
-        self.offset = 0        
+        self.offset = 0
         self.currentlySelectedItemIndex = 0
         self.initDefaultColors()
 
-        # Restrict scroll padding - 
+        # Set default scroll padding, if needed:
+        if(scrollPadding is None):
+            self.scrollPadding = int(self.menuHeight*0.15)
+        # Restrict scroll padding -
         if(self.scrollPadding > (self.height / 2)):
             self.scrollPadding = self.height / 2
 
-        logger.debug("Initialized menu with params : " +    "self.menuBGcolor = " + str(self.menuBGcolor) + ", " + 
-        "self.menuFGcolor = " + str(self.menuFGcolor) + ", " + 
-        "self.borderBGcolor = " + str(self.borderBGcolor) + ", " + 
-        "self.borderFGcolor = " + str(self.borderFGcolor) + ", " + 
-        "self.leftPadding = " + str(self.leftPadding) + ", " + 
-        "self.scrollPadding = " + str(self.scrollPadding) + ", " + 
-        "self.window = " + str(self.window) + ", " + 
-        "self.inputMenuItems = " + str(self.inputMenuItems) + ", " + 
-        "self.height = " + str(self.height) + ", " + 
-        "self.menuStart = " + str(self.menuStart) + ", " + 
-        "self.menuEnd = " + str(self.menuEnd) + ", " + 
-        "self.menuHeight = " + str(self.menuHeight) + ", " + 
-        "self.size = " + str(self.size) + ", " + 
-        "self.firstItem = " + str(self.firstItem) + ", " + 
+        logger.debug("Initialized menu with params : " +    "self.menuBGcolor = " + str(self.menuBGcolor) + ", " +
+        "self.menuFGcolor = " + str(self.menuFGcolor) + ", " +
+        "self.borderBGcolor = " + str(self.borderBGcolor) + ", " +
+        "self.borderFGcolor = " + str(self.borderFGcolor) + ", " +
+        "self.leftPadding = " + str(self.leftPadding) + ", " +
+        "self.scrollPadding = " + str(self.scrollPadding) + ", " +
+        "self.window = " + str(self.window) + ", " +
+        "self.inputMenuItems = " + str(self.inputMenuItems) + ", " +
+        "self.height = " + str(self.height) + ", " +
+        "self.menuStart = " + str(self.menuStart) + ", " +
+        "self.menuEnd = " + str(self.menuEnd) + ", " +
+        "self.menuHeight = " + str(self.menuHeight) + ", " +
+        "self.size = " + str(self.size) + ", " +
+        "self.firstItem = " + str(self.firstItem) + ", " +
         "self.lastItem = " + str(self.lastItem) + ", ");
 
     def drawBorder(self):
@@ -120,23 +123,23 @@ class menu:
     def adjustOffsetIfNeeded(self, itemToSelect):
         renderPositionNew = self.renderPositionOf(itemToSelect);
         needToAdjust = False
-        # If menu item to be selected is beyond permissible render bounds 
+        # If menu item to be selected is beyond permissible render bounds
 
         # Above currently selected object
         if(( renderPositionNew < (self.menuStart + self.scrollPadding) ) and self.offset > 0):
             needToAdjust = True
             self.offset = itemToSelect - self.scrollPadding
-        
+
         # Below currently selected object
         if(( renderPositionNew > (self.menuEnd - self.scrollPadding) ) and self.offset < self.size - self.menuHeight):
             needToAdjust = True
-            self.offset = itemToSelect + self.scrollPadding - self.size
+            self.offset = itemToSelect + self.scrollPadding - self.menuHeight
 
         return needToAdjust
         # needToAdjust =  || (renderPositionNew > (self.menuEnd - self.scrollPadding))
         # if(needToAdjust):
-        #     topRenderPosition = 
-        #     bottomRenderPosition = 
+        #     topRenderPosition =
+        #     bottomRenderPosition =
 
     def selectItem(self, itemToSelect):
         logger.debug("Selecting item : " + str(itemToSelect))
@@ -215,6 +218,7 @@ def draw_menu(stdscr):
 
     # Loop where k is the last character pressed
     while (k != ord('q')):
+        logger.debug("Key pressed : " + str(k))
 
         # Initialization
         # stdscr.clear()
