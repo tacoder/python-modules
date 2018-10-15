@@ -109,9 +109,13 @@ class menu:
         self.window.border()
 
     def renderMenu(self):
+        logger.debug("Rendering menu from " +str(0 + self.offset) + " to " + str(self.menuEnd + self.offset))
         for index in range (0 + self.offset, self.menuEnd + self.offset):
-            menuItem = self.inputMenuItems[index]
-            self.window.addstr(index + self.menuStart - self.offset, self.leftPadding, self.justifyAndTrim(menuItem["menuDesc"]))
+            if(index > self.lastItem or index < self.firstItem):
+                self.window.addstr(index + self.menuStart - self.offset, self.leftPadding, self.justifyAndTrim("~"))
+            else:    
+                menuItem = self.inputMenuItems[index]
+                self.window.addstr(index + self.menuStart - self.offset, self.leftPadding, self.justifyAndTrim(menuItem["menuDesc"]))
 
     def render(self):
         self.drawBorder()
@@ -130,6 +134,8 @@ class menu:
         if(( renderPositionNew < (self.menuStart + self.scrollPadding) ) and self.offset > 0):
             needToAdjust = True
             self.offset = itemToSelect - self.scrollPadding
+            if(itemToSelect < self.scrollPadding):
+                self.offset = 0
 
         # Below currently selected object
         if(( renderPositionNew > (self.menuEnd - self.scrollPadding) ) and self.offset < self.size - self.menuHeight):
@@ -175,6 +181,21 @@ class menu:
     def justifyAndTrim(self, str):
         return str.ljust(self.menuItemWidth)[:self.menuItemWidth]
 
+    def pagedown(self):
+        logger.debug("event: PAGEDOWN")
+        if( self.currentlySelectedItemIndex != self.lastItem ):
+            newItem = self.currentlySelectedItemIndex + self.menuHeight
+            if(newItem > self.lastItem):
+                newItem = self.lastItem
+            self.selectItem(newItem)
+
+    def pageup(self):
+        logger.debug("event: PAGEUP")
+        if( self.currentlySelectedItemIndex != self.firstItem ):
+            newItem = self.currentlySelectedItemIndex - self.menuHeight
+            if(newItem < self.firstItem):
+                newItem = self.firstItem
+            self.selectItem(newItem)
 
 def draw_menu(stdscr):
     global stdscrObj
@@ -217,9 +238,10 @@ def draw_menu(stdscr):
         elif k == curses.KEY_UP:
             m.up()
             cursor_y = cursor_y - 1
-        elif k == curses.KEY_RIGHT:
-            cursor_x = cursor_x + 1
-        elif k == curses.KEY_LEFT:
+        elif k == curses.KEY_NPAGE:
+            m.pagedown()
+        elif k == curses.KEY_PPAGE:
+            m.pageup()
             cursor_x = cursor_x - 1
 
         cursor_x = max(0, cursor_x)
