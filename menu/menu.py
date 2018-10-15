@@ -12,6 +12,7 @@ formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
 hdlr.setFormatter(formatter)
 logger.addHandler(hdlr)
 logger.setLevel(logging.DEBUG)
+
 '''
 menu
 
@@ -28,7 +29,7 @@ state attributes:
     currently highlighted
     menu render offset
 
-functions to support:
+functions to support:       
     highlight item no i
     move up
     move down
@@ -38,7 +39,6 @@ functions to support:
 '''
 TODO:
 figure out default colors mapping! -- can we possibly move colors out of this class ? maybe, maybe not.
-Implement said methods
 '''
 
 class menu:
@@ -69,12 +69,13 @@ class menu:
         self.window = winObj
         self.inputMenuItems = menuItems
         self.height, self.width = self.window.getmaxyx()
-        self.menuStart = 1
+        self.menuStart = 1  
         self.menuEnd = self.height - 2
         self.menuHeight = self.menuEnd - self.menuStart + 1
         self.size = len(menuItems)
         self.firstItem = 0
         self.lastItem = self.firstItem + self.size - 1
+        self.menuItemWidth = self.width - 2 - self.leftPadding
 
         # set dynamic properties - these will change regularly, and contain
         self.offset = 0
@@ -110,7 +111,7 @@ class menu:
     def renderMenu(self):
         for index in range (0 + self.offset, self.menuEnd + self.offset):
             menuItem = self.inputMenuItems[index]
-            self.window.addstr(index + self.menuStart - self.offset, self.leftPadding, menuItem["menuDesc"])
+            self.window.addstr(index + self.menuStart - self.offset, self.leftPadding, self.justifyAndTrim(menuItem["menuDesc"]))
 
     def render(self):
         self.drawBorder()
@@ -136,10 +137,6 @@ class menu:
             self.offset = itemToSelect + self.scrollPadding - self.menuHeight
 
         return needToAdjust
-        # needToAdjust =  || (renderPositionNew > (self.menuEnd - self.scrollPadding))
-        # if(needToAdjust):
-        #     topRenderPosition =
-        #     bottomRenderPosition =
 
     def selectItem(self, itemToSelect):
         logger.debug("Selecting item : " + str(itemToSelect))
@@ -162,31 +159,21 @@ class menu:
 
     def colorItem(self, itemNoToColor, colorPairToApply):
         self.window.attron(curses.color_pair(colorPairToApply))
-        self.window.addstr(itemNoToColor + self.menuStart - self.offset, self.leftPadding, self.inputMenuItems[itemNoToColor]["menuDesc"])
+        self.window.addstr(itemNoToColor + self.menuStart - self.offset, self.leftPadding, self.justifyAndTrim(self.inputMenuItems[itemNoToColor]["menuDesc"]))
         self.window.attroff(curses.color_pair(colorPairToApply))
-
-    # def increaseOffset(self):
-    #     self.offset = self.offset+1
-    #     self.renderMenu()
 
     def down(self):
         logger.debug("event: DOWN")
-
-        # if(self.currentlySelectedItemIndex - self.offset > self.height -4):
-        #     self.increaseOffset()
-        # if(self.currentlySelectedItemIndex < self.size-1):
         if( self.currentlySelectedItemIndex != self.lastItem ):
             self.selectItem(self.currentlySelectedItemIndex + 1)
-
-    # def decreaseOffset(self):
-    #     self.offset = self.offset-1
-    #     self.renderMenu()
 
     def up(self):
         logger.debug("event: UP")
         if( self.currentlySelectedItemIndex != self.firstItem ):
             self.selectItem(self.currentlySelectedItemIndex - 1)
 
+    def justifyAndTrim(self, str):
+        return str.ljust(self.menuItemWidth)[:self.menuItemWidth]
 
 
 def draw_menu(stdscr):
@@ -208,8 +195,8 @@ def draw_menu(stdscr):
 
     menuItems = []
 
-    for number in range(1,100):
-        menuItems+=[{"menuDesc":"item number" + str(number)}]
+    for number in range(1,105):
+        menuItems+=[{"menuDesc":"LONG ASS NAME FOR AN ITEM item number" + str(number)}]
     m = menu(stdscr,menuItems)
     m.render()
 
@@ -248,7 +235,10 @@ def draw_menu(stdscr):
         k = stdscr.getch()
 
 def main():
-    curses.wrapper(draw_menu)
+    print "before"
+    outptu = curses.wrapper(draw_menu)
+    print outptu
+    print "asdf"
 
 if __name__ == "__main__":
     logger.debug("Entering main!")
