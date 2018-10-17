@@ -45,10 +45,16 @@ class FilteringMenu(BasicMenu):
 
     def drawBorder(self):
         BasicMenu.drawBorder(self)
-        self.window.border()
         self.window.addch(self.height-4,0,curses.ACS_LTEE)
         for i in range (1, self.width-1):
             self.window.addch(self.height-4,i,curses.ACS_HLINE)
         self.window.addch(self.height-4,self.width-1,curses.ACS_RTEE)
 
+    def addSearchCh(self, searchCh):
+        logger.debug("event: addding search ch " + ch)
+        self.searchStr += searchCh
+
+    def addSearchCh(self, searchCh):
+        logger.debug("event: addding search ch " + ch)
+        self.searchStr += searchCh
 
