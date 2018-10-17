@@ -25,7 +25,7 @@ def draw_menu(stdscr):
     menuItems = []
 
     for number in range(1,105):
-        menuItems+=[{"menuDesc":"LONG ASS NAME FOR AN ITEM item number" + str(number)}]
+        menuItems+=[{"menuDesc":"LONG NAME FOR AN ITEM item number" + str(number)}]
     m = FilteringMenu(stdscr,menuItems)
     m.render()
 
