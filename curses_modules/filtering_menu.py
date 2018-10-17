@@ -2,6 +2,7 @@
 import sys,os
 import curses
 import json
+import menu
 
 stdscrObj = None
 
@@ -193,7 +194,7 @@ class menu:
     def addSearchCh(self, searchCh):
         logger.debug("event: addding search ch " + ch)
         self.searchStr += searchCh
-        
+
 
     def addSearchCh(self, searchCh):
         logger.debug("event: addding search ch " + ch)
