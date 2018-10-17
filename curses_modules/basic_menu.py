@@ -168,6 +168,7 @@ class BasicMenu:
 
     def down(self):
         logger.debug("event: DOWN")
+        logger.debug("last item is " + str(self.lastItem))
         if( self.currentlySelectedItemIndex != self.lastItem ):
             self.selectItem(self.currentlySelectedItemIndex + 1)
 
