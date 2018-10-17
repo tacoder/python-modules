@@ -41,6 +41,8 @@ class FilteringMenu(BasicMenu):
         # Restrict scroll padding -
         if(self.scrollPadding > (self.height / 2)):
             self.scrollPadding = self.height / 2
+        self.searchBarPos = self.height - 2 - 1
+        self.searchStr = ""
 
 
     def drawBorder(self):
@@ -51,10 +53,18 @@ class FilteringMenu(BasicMenu):
         self.window.addch(self.height-4,self.width-1,curses.ACS_RTEE)
 
     def addSearchCh(self, searchCh):
-        logger.debug("event: addding search ch " + ch)
-        self.searchStr += searchCh
+        logger.debug("event: addding search ch " + str(searchCh))
+        self.searchStr += str(searchCh)
+        logger.debug("New search string is" + self.searchStr)
+        self.addCh(searchCh)
 
-    def addSearchCh(self, searchCh):
-        logger.debug("event: addding search ch " + ch)
-        self.searchStr += searchCh
+    def removeSearchCh(self):
+        logger.debug("event: removing search ch")
+        self.removeCh()
+
+    def addCh(self, searchCh):
+        self.window.addch(self.searchBarPos, self.leftPadding + len(self.searchStr) - 1, searchCh)
+
+    def removeCh():
+        self.window.addch(self.searchBarPos, self.leftPadding + len(self.searchStr) - 1, " ")        
 

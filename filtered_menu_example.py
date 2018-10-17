@@ -3,7 +3,7 @@ import sys,os
 import curses
 import json
 
-from curses_modules.filtering_menu_inherited  import FilteringMenu
+from curses_modules.filtering_menu  import FilteringMenu
 import curses
 
 
@@ -50,6 +50,8 @@ def draw_menu(stdscr):
         elif k == curses.KEY_PPAGE:
             m.pageup()
             cursor_x = cursor_x - 1
+        else:
+            m.addSearchCh(k)
 
         cursor_x = max(0, cursor_x)
         cursor_x = min(width-1, cursor_x)
