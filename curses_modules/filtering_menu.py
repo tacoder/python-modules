@@ -233,4 +233,7 @@ class FilteringMenu():
             self.selectItem(newItem)
 
     def getCurrentlySelectedItem(self):
-        return self.inputMenuItems[self.currentlySelectedItemIndex]
+        if(len(self.inputMenuItems) > 0):
+            return self.inputMenuItems[self.currentlySelectedItemIndex]
+        else:
+            return None

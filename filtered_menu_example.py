@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 def isAlpha(asciiInt):
     return asciiInt in  [ord(c) for c in string.printable]
 
-def draw_menu(stdscr):
+def draw_menu(stdscr, menuItems):
     k=0
     cursor_x = 0
     cursor_y = 0
@@ -27,10 +27,6 @@ def draw_menu(stdscr):
     curses.init_pair(2, curses.COLOR_RED, curses.COLOR_BLACK)
     curses.init_pair(3, curses.COLOR_BLACK, curses.COLOR_WHITE)
 
-    menuItems = []
-
-    for number in range(1,5):
-        menuItems+=[{"menuDesc":"LONG NAME FOR AN ITEM item number" + str(number)}]
     m = FilteringMenu(stdscr,menuItems)
     m.render()
 
@@ -63,6 +59,8 @@ def draw_menu(stdscr):
         elif k == curses.KEY_ENTER or k == 10:
             logger.debug("Retunging k yooo")
             return m.getCurrentlySelectedItem()
+        elif k == 27: #Escape key, exit with non zero code
+            sys.exit(-1)
         elif isAlpha(k):
             m.addSearchCh(str(unichr(k)))
 
@@ -79,11 +77,18 @@ def draw_menu(stdscr):
         # Wait for next input
         k = stdscr.getch()
 
+def drive(menuItems):
+    os.environ.setdefault('ESCDELAY', '25')
+    return curses.wrapper(draw_menu, menuItems)
+
 def main():
     if "-debug" in sys.argv:
         print "Enabling logs"
         logging.basicConfig(filename='logfile.log', level=logging.DEBUG)
-    output = curses.wrapper(draw_menu)
+    menuItems = []
+    for number in range(1,5):
+        menuItems+=[{"menuDesc":"LONG NAME FOR AN ITEM item number" + str(number)}]
+    output = drive(menuItems)
     print "user selected " + str(output)
 
 if __name__ == "__main__":
