@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import sys
-from curses_modules.filtered_menu_driver import drive
+from curses_modules.filtering_menu_driver import drive
 import logging, logging.config
 
 logger = logging.getLogger(__name__)
