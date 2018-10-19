@@ -2,10 +2,20 @@
 import sys,os
 import curses
 import json
+import string
 
 from curses_modules.filtering_menu  import FilteringMenu
 import curses
+import logging
+logger = logging.getLogger(__name__)
+hdlr = logging.FileHandler('/var/tmp/myapp.log')
+formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
+hdlr.setFormatter(formatter)
+logger.addHandler(hdlr)
+logger.setLevel(logging.DEBUG)
 
+def isAlpha(asciiInt):
+    return asciiInt in  [ord(c) for c in string.printable]
 
 def draw_menu(stdscr):
     k=0
@@ -24,7 +34,7 @@ def draw_menu(stdscr):
 
     menuItems = []
 
-    for number in range(1,105):
+    for number in range(1,5):
         menuItems+=[{"menuDesc":"LONG NAME FOR AN ITEM item number" + str(number)}]
     m = FilteringMenu(stdscr,menuItems)
     m.render()
@@ -34,6 +44,9 @@ def draw_menu(stdscr):
 
     # Loop where k is the last character pressed
     while (k != ord('q')):
+        logger.debug("Key pressed : " + str(k))
+        logger.debug(k)
+        logger.debug(k == 10    )
 
         # Initialization
         # stdscr.clear()
@@ -50,9 +63,15 @@ def draw_menu(stdscr):
         elif k == curses.KEY_PPAGE:
             m.pageup()
             cursor_x = cursor_x - 1
-        else:
-            m.addSearchCh(k)
+        elif k == curses.KEY_BACKSPACE or k ==127:
+            m.removeSearchCh()
+        elif k == curses.KEY_ENTER or k == 10:
+            logger.debug("Retunging k yooo")
+            return m.getCurrentlySelectedItem()
+        elif isAlpha(k):
+            m.addSearchCh(str(unichr(k)))
 
+        logger.debug("curses.KEY_ENTER" + str(curses.KEY_ENTER))
         cursor_x = max(0, cursor_x)
         cursor_x = min(width-1, cursor_x)
 
