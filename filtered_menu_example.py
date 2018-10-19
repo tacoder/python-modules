@@ -6,13 +6,8 @@ import string
 
 from curses_modules.filtering_menu  import FilteringMenu
 import curses
-import logging
+import logging, logging.config
 logger = logging.getLogger(__name__)
-hdlr = logging.FileHandler('/var/tmp/myapp.log')
-formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
-hdlr.setFormatter(formatter)
-logger.addHandler(hdlr)
-logger.setLevel(logging.DEBUG)
 
 def isAlpha(asciiInt):
     return asciiInt in  [ord(c) for c in string.printable]
@@ -85,10 +80,11 @@ def draw_menu(stdscr):
         k = stdscr.getch()
 
 def main():
-    print "before"
-    outptu = curses.wrapper(draw_menu)
-    print outptu
-    print "asdf"
+    if "-debug" in sys.argv:
+        print "Enabling logs"
+        logging.basicConfig(filename='logfile.log', level=logging.DEBUG)
+    output = curses.wrapper(draw_menu)
+    print "user selected " + str(output)
 
 if __name__ == "__main__":
     main()

@@ -6,11 +6,11 @@ import json
 stdscrObj = None
 import logging
 logger = logging.getLogger(__name__)
-hdlr = logging.FileHandler('/var/tmp/myapp.log')
-formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
-hdlr.setFormatter(formatter)
-logger.addHandler(hdlr)
-logger.setLevel(logging.DEBUG)
+# hdlr = logging.FileHandler('/var/tmp/myapp.log')
+# formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
+# hdlr.setFormatter(formatter)
+# logger.addHandler(hdlr)
+# logger.setLevel(logging.DEBUG)
 
 '''
 FIltering menu:
@@ -205,12 +205,12 @@ class FilteringMenu():
     def down(self):
         logger.debug("event: DOWN")
         logger.debug("last item is " + str(self.lastItem))
-        if( self.currentlySelectedItemIndex != self.lastItem ):
+        if( self.currentlySelectedItemIndex < self.lastItem ):
             self.selectItem(self.currentlySelectedItemIndex + 1)
 
     def up(self):
         logger.debug("event: UP")
-        if( self.currentlySelectedItemIndex != self.firstItem ):
+        if( self.currentlySelectedItemIndex > self.firstItem ):
             self.selectItem(self.currentlySelectedItemIndex - 1)
 
     def justifyAndTrim(self, str):
