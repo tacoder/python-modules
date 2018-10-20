@@ -195,3 +195,9 @@ class BasicMenu:
             if(newItem < self.firstItem):
                 newItem = self.firstItem
             self.selectItem(newItem)
+
+    def getCurrentlySelectedItem(self):
+        if(len(self.inputMenuItems) > 0):
+            return self.inputMenuItems[self.currentlySelectedItemIndex]
+        else:
+            return None
