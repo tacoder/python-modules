@@ -7,7 +7,7 @@ def main():
         print "Enabling logs"
         logging.basicConfig(filename='logfile.log', level=logging.DEBUG)
     menuItems = []
-    for number in range(1,5):
+    for number in range(1,100):
         menuItems+=[{"menuDesc":"LONG NAME FOR AN ITEM item number" + str(number)}]
     output = drive(menuItems)
     print "user selected " + str(output)
