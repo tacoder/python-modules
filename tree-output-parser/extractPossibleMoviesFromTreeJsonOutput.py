@@ -49,4 +49,4 @@ def processFile(fileName):
 	    traverse(data)
 
 
-processFile('HDDJsonTreeWithAggregationSize.json')
+processFile('data/HDDJsonTreeWithAggregationSize.json')
