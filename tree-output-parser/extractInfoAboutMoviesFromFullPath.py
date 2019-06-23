@@ -10,14 +10,19 @@ from difflib import SequenceMatcher
 from fuzzywuzzy import fuzz
 import threading
 import concurrent.futures
+import re
+import socket
+socket.setdefaulttimeout(5)
 
 LEAST_PROBABLE_MOVIE_SIZE=300*1000*1000
 mediaFileFormats = ['webm','mkv','flv','flv','vob','ogv','ogg','drc','gif','gifv','mng','avi','MTS','M2TS','mov','qt','wmv','yuv','rm','rmvb','asf','amv','mp4','m4p','m4v','mpg','mp2','mpeg','mpe','mpv','mpg','mpeg','m2v','m4v','svi','3gp','3g2','mxf','roq','nsv','flv','f4v','f4p','f4a','f4b']
-exclusionPaths = ['./DATA/Series/']
+exclusionPaths = ['./DATA/Series/', './laptop backup/Shalini']
 undesirableKinds = ['episode', 'video game', 'tv movie', 'short']
 desirableKinds = []
 cache = {}
 results = []    
+
+debug=False
 
 def outputImdbResults(prefix, imdbResultSet):
     print(prefix)
@@ -29,8 +34,15 @@ def outputImdbResults(prefix, imdbResultSet):
             print(imdbResult.data)
     print("]")
 
+def normaliseString(string):
+    return re.sub('[\W]+',' ', string )
+
 def score(a, b):
-    return fuzz.ratio(a,b)
+    if debug:
+        print("normalised ", a , " to ", normaliseString(a))
+        print("normalised ", b , " to ", normaliseString(b))
+        print("Ratio is: ", fuzz.ratio(normaliseString(a),normaliseString(b)))
+    return fuzz.ratio(normaliseString(a),normaliseString(b))
     # return SequenceMatcher(None, b, a).ratio()
 
 def isDesirable(imdbResult):
@@ -43,6 +55,9 @@ def isDesirable(imdbResult):
     if isDesirable:
         if kind not in desirableKinds:
             desirableKinds.append(kind)
+    else :
+        if debug:
+            print("Undesirable kind " , imdbResult ,"data",imdbResult.data)
     return isDesirable
 
 def removeUndesirableResults(imdbResultSet):
@@ -73,20 +88,31 @@ def filterByNameBestMatch(movieData, imdbResultSet):
     return filteredData
 
 def ifEpisodeRemoveMovies(movieData, imdbResultSet):
+    # print(movieData['type'])
     if movieData['type'] == "episode":
-        return [x for x in imdbResultSet if "movies" not in x['kind'] ]
+        # print("i am here!")
+        # for imdbResult in imdbResultSet:
+        #     print(imdbResult)
+        #     print(imdbResult.data)
+        #     print("kind: ",imdbResult.data['kind'])
+        #     print("Tru eof rnoew : ", "movie" not in imdbResult.data['kind'])
+        return [x for x in imdbResultSet if "movie" not in x.data['kind'] ]
     else :
         return imdbResultSet
 
 def getBestMatch(movieData, imdbResultSet):
-    imdbResultSet = filterByYear(movieData, imdbResultSet)
-    print(imdbResultSet)
-    imdbResultSet = filterByNameBestMatch(movieData, imdbResultSet)
-    print(imdbResultSet)
     imdbResultSet = removeUndesirableResults(imdbResultSet);
-    print(imdbResultSet)
+    if debug:
+        outputImdbResults("Afterop:removeUndesirableResults Matches are: ", imdbResultSet)
+    imdbResultSet = filterByYear(movieData, imdbResultSet)
+    if debug:
+        outputImdbResults("Afterop:filterByYear Matches are: ", imdbResultSet)
+    imdbResultSet = filterByNameBestMatch(movieData, imdbResultSet)
+    if debug:
+        outputImdbResults("Afterop:filterByNameBestMatch Matches are: ", imdbResultSet)
     imdbResultSet = ifEpisodeRemoveMovies(movieData, imdbResultSet)
-    print(imdbResultSet)
+    if debug:
+        outputImdbResults("Afterop:ifEpisodeRemoveMovies Matches are: ", imdbResultSet)
     return imdbResultSet
 
 def fetchImdb(guessItOutput):
@@ -96,30 +122,27 @@ def fetchImdb(guessItOutput):
         return cache[title]
     print("Searching imdb for title: " + title)
     # Create the object that will be used to access the IMDb's database.
-    while True:
-        try:
-            ia = imdb.IMDb()
-        except:
-            continue
-        break
+    ia = imdb.IMDb()
     # Search for a movie (get a list of Movie objects).
     s_result = ia.search_movie(title)
-    # print("Imdb returned: " , len(s_result) ,  " Results")
-    # for movie in s_result:
-    #     print(movie)
-        #print(movie.__dict__)
+    if debug:
+        print("Imdb returned: " , len(s_result) ,  " Results")
+        for movie in s_result:
+            print(movie)
+            print(movie.__dict__)
     filteredResults = getBestMatch(guessItOutput, s_result)
-    # print("we filtered it to " ,len(filteredResults)," Results")
-    # print("filteredResults:")
-    # for result in filteredResults:
-    #     print(result)
-    #     print(result.__dict__)
-    # if len(filteredResults) is not 1:
-    #     print("UNABLE TO FIND A+ MATCH")
-    #     outputImdbResults("Filtered results", filteredResults)
-    #     # print("Filtered Results: ", filteredResults)
-    #     outputImdbResults("imdb resturnde", s_result)
-        # print("imdb returned: ", s_result)
+    if debug:
+        print("we filtered it to " ,len(filteredResults)," Results")
+        print("filteredResults:")
+        for result in filteredResults:
+            print(result)
+            print(result.__dict__)
+        if len(filteredResults) is not 1:
+            print("UNABLE TO FIND A+ MATCH")
+            outputImdbResults("Filtered results", filteredResults)
+            print("Filtered Results: ", filteredResults)
+            outputImdbResults("imdb resturnde", s_result)
+            print("imdb returned: ", s_result)
     result = {}
     result['filteredResults'] = filteredResults
     result['imdbResults'] = s_result
@@ -127,36 +150,43 @@ def fetchImdb(guessItOutput):
     return result
 
 def doEverything(fullFilePath):
-    # print(fullFilePath);
+    if debug:
+        print(fullFilePath);
     gi = guessit(os.path.basename(fullFilePath))
-    #print("guessit output ", gi)
-    fetchImdbResult = fetchImdb(gi)
+    if debug:
+        print("guessit output ", gi)
+    while True:
+        try:
+            fetchImdbResult = fetchImdb(gi)
+        except:
+            continue
+        break
     result = {}
     result['fullFilePath'] = fullFilePath
     result['imdbResult'] = fetchImdbResult['imdbResults']
     result['finalResult'] = fetchImdbResult['filteredResults']
     result['guessItResult'] = gi
     results.append(result)
-    # print(result)
+    if debug: 
+        print(result)
 
 def printFullResult(result):
     print("Result.fullFilePath", result['fullFilePath'])
     print("Result.guessItResult", result['guessItResult'])
     print("Title chosen by guessIt: ", result['guessItResult']['title'])
-    print("Result.finalResult (len=", )
-    if result['finalResult'] is not None:
-        print(len(result['finalResult']))
+    print("Result.finalResult (len=", len(result['finalResult']))
     for imdbResult in result['finalResult']:
         print(imdbResult, imdbResult.data)
-    print("Result.imdbResult (len=", len(result['imdbResult']))
-    for imdbResult in result['imdbResult']:
-        print(imdbResult, imdbResult.data)
+    # print("Result.imdbResult (len=", len(result['imdbResult']))
+    # for imdbResult in result['imdbResult']:
+    #     print(imdbResult, imdbResult.data)
 
 def printPartialResult(result):
+    print("===================================")
     print("Result.fullFilePath", result['fullFilePath'])
-    print("Result.guessItResult", result['guessItResult'])
-    print("Title chosen by guessIt: ", result['guessItResult']['title'])
-    print("Result.finalResult")
+    # print("Result.guessItResult", result['guessItResult'])
+    print("Title: ", result['guessItResult']['title'])
+    # print("Result.finalResult")
     for imdbResult in result['finalResult']:
         print(imdbResult, imdbResult.data)
 
@@ -165,25 +195,20 @@ def processFile(fileName):
     lines = []
     with open(fileName) as f:
         lines = f.readlines()
-        # for fullFilePath in f.readlines():
-        #     threads.append(threading.Thread(target=doEverything, args=(fullFilePath,)))
+    lines = [line.strip() for line in lines]
     with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
         executor.map(doEverything, lines)
         executor.shutdown(wait=True)
-
-    # for thread in threads:
-    #     thread.start()
-    # for thread in threads:
-    #     thread.join()
     print("================+FETCHIGNB DBES!!============")
     successResults = []
     for result in results:
-        print(result)
         if len(result['finalResult']) == 1:
             successResults.append(result)
         else:
             print("Failed to find movie for: ")
             printFullResult(result)
+    print("================================================")
+    print("================================================")
     print("================================================")
     for successResult in successResults:
         print("Successfully found resiult for: ")
@@ -198,3 +223,16 @@ ia = IMDb()
 print(ia.get_movie_infoset())
 
 processFile('data/possibleMovies.txt')
+
+# debug=True
+# fileName="./torrents/completed/Fargo.Season.2.720p.BluRay.x264.ShAaNiG/Fargo.S02E08.720p.BluRay.x264.ShAaNiG.mkv"
+# fileName= "./DATA/Movies/new ones/Crazy.Stupid.Love.2011.720p.BrRip.x264.YIFY.mp4"
+# fileName="./DATA/Movies/English/Watched Normal Resolution/Crash [Eng] [2005].avi"
+./DATA/Movies/Movies/12 Angry Men.avi
+./DATA/Movies/Movies/Due Date.avi #can remove video moviue
+./DATA/Movies/Movies/Collateral.mkv
+./DATA/Movies/Movies/The Aviator (2004).mkv
+./DATA/Movies/new ones/16.wishes.2010.hdtv.xvid-momentum.avi
+./New folder (2)/movies/Fatal Attraction [1987] [IMDB_6.8]/FatalAttraction_DVDRip.avi
+# doEverything(fileName)
+# debug=True
