@@ -15,7 +15,6 @@ import socket
 socket.setdefaulttimeout(5)
 
 LEAST_PROBABLE_MOVIE_SIZE=300*1000*1000
-mediaFileFormats = ['webm','mkv','flv','flv','vob','ogv','ogg','drc','gif','gifv','mng','avi','MTS','M2TS','mov','qt','wmv','yuv','rm','rmvb','asf','amv','mp4','m4p','m4v','mpg','mp2','mpeg','mpe','mpv','mpg','mpeg','m2v','m4v','svi','3gp','3g2','mxf','roq','nsv','flv','f4v','f4p','f4a','f4b']
 exclusionPaths = ['./DATA/Series/', './laptop backup/Shalini']
 undesirableKinds = ['episode', 'video game', 'tv movie', 'short']
 desirableKinds = []
@@ -23,6 +22,10 @@ cache = {}
 results = []    
 
 debug=False
+
+# Create the object that will be used to access the IMDb's database.
+ia = imdb.IMDb()
+
 
 def outputImdbResults(prefix, imdbResultSet):
     print(prefix)
@@ -32,6 +35,7 @@ def outputImdbResults(prefix, imdbResultSet):
         #     print("'", imdbResult.data['title'], "', ")
         # else:
             print(imdbResult.data)
+            print(imdbResult)
     print("]")
 
 def normaliseString(string):
@@ -121,8 +125,6 @@ def fetchImdb(guessItOutput):
         print("Serving from cache for title: " + title)
         return cache[title]
     print("Searching imdb for title: " + title)
-    # Create the object that will be used to access the IMDb's database.
-    ia = imdb.IMDb()
     # Search for a movie (get a list of Movie objects).
     s_result = ia.search_movie(title)
     if debug:
@@ -143,6 +145,9 @@ def fetchImdb(guessItOutput):
             print("Filtered Results: ", filteredResults)
             outputImdbResults("imdb resturnde", s_result)
             print("imdb returned: ", s_result)
+    for result in filteredResults:
+        ia.update(result, ['main','synopsis'])
+        # pass
     result = {}
     result['filteredResults'] = filteredResults
     result['imdbResults'] = s_result
@@ -159,6 +164,7 @@ def doEverything(fullFilePath):
         try:
             fetchImdbResult = fetchImdb(gi)
         except:
+            print("Retrying for", gi['title'])
             continue
         break
     result = {}
@@ -168,15 +174,17 @@ def doEverything(fullFilePath):
     result['guessItResult'] = gi
     results.append(result)
     if debug: 
-        print(result)
+        printFullResult(result)
 
 def printFullResult(result):
+    print("=======================")
     print("Result.fullFilePath", result['fullFilePath'])
     print("Result.guessItResult", result['guessItResult'])
     print("Title chosen by guessIt: ", result['guessItResult']['title'])
     print("Result.finalResult (len=", len(result['finalResult']))
     for imdbResult in result['finalResult']:
-        print(imdbResult, imdbResult.data)
+        print("imdbresult", imdbResult)
+        print("imdbresultdat",imdbResult.data)
     # print("Result.imdbResult (len=", len(result['imdbResult']))
     # for imdbResult in result['imdbResult']:
     #     print(imdbResult, imdbResult.data)
@@ -218,6 +226,22 @@ def processFile(fileName):
     print("Found results for : ", len(successResults), "titles. ")
     print("Failed to find results for : ", len(results) - len(successResults), "titles. ")
     print("Desirable kinds foinr : ", desirableKinds)
+    print("===========================")
+    print("Finale and infla result:")
+    print(results)
+    # To fetch keys:
+    # title
+    # kind
+    # year
+    # cast
+    # genres
+    # runtimes
+    # rating
+    # cover url
+    # plot outline
+    # plot
+
+
 
 ia = IMDb()
 print(ia.get_movie_infoset())
@@ -228,11 +252,13 @@ processFile('data/possibleMovies.txt')
 # fileName="./torrents/completed/Fargo.Season.2.720p.BluRay.x264.ShAaNiG/Fargo.S02E08.720p.BluRay.x264.ShAaNiG.mkv"
 # fileName= "./DATA/Movies/new ones/Crazy.Stupid.Love.2011.720p.BrRip.x264.YIFY.mp4"
 # fileName="./DATA/Movies/English/Watched Normal Resolution/Crash [Eng] [2005].avi"
-./DATA/Movies/Movies/12 Angry Men.avi
-./DATA/Movies/Movies/Due Date.avi #can remove video moviue
-./DATA/Movies/Movies/Collateral.mkv
-./DATA/Movies/Movies/The Aviator (2004).mkv
-./DATA/Movies/new ones/16.wishes.2010.hdtv.xvid-momentum.avi
-./New folder (2)/movies/Fatal Attraction [1987] [IMDB_6.8]/FatalAttraction_DVDRip.avi
+
+#To check for below movies
+# ./DATA/Movies/Movies/12 Angry Men.avi
+# ./DATA/Movies/Movies/Due Date.avi #can remove video moviue
+# ./DATA/Movies/Movies/Collateral.mkv
+# ./DATA/Movies/Movies/The Aviator (2004).mkv
+# ./DATA/Movies/new ones/16.wishes.2010.hdtv.xvid-momentum.avi
+# ./New folder (2)/movies/Fatal Attraction [1987] [IMDB_6.8]/FatalAttraction_DVDRip.avi
 # doEverything(fileName)
 # debug=True
