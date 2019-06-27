@@ -12,6 +12,7 @@ import threading
 import concurrent.futures
 import re
 import socket
+import jsonpickle
 socket.setdefaulttimeout(5)
 
 LEAST_PROBABLE_MOVIE_SIZE=300*1000*1000
@@ -122,16 +123,17 @@ def getBestMatch(movieData, imdbResultSet):
 def fetchImdb(guessItOutput):
     title = guessItOutput['title']
     if title in cache:
-        print("Serving from cache for title: " + title)
+        if debug:
+            print("Serving from cache for title: " + title)
         return cache[title]
-    print("Searching imdb for title: " + title)
+    if debug:
+        print("Searching imdb for title: " + title)
     # Search for a movie (get a list of Movie objects).
     s_result = ia.search_movie(title)
     if debug:
         print("Imdb returned: " , len(s_result) ,  " Results")
         for movie in s_result:
             print(movie)
-            print(movie.__dict__)
     filteredResults = getBestMatch(guessItOutput, s_result)
     if debug:
         print("we filtered it to " ,len(filteredResults)," Results")
@@ -146,7 +148,13 @@ def fetchImdb(guessItOutput):
             outputImdbResults("imdb resturnde", s_result)
             print("imdb returned: ", s_result)
     for result in filteredResults:
-        ia.update(result, ['main','synopsis'])
+        while True:
+            try:
+                ia.update(result, ['main','synopsis'])
+            except:
+                print("Retyring full search for ", result)
+                continue
+            break
         # pass
     result = {}
     result['filteredResults'] = filteredResults
@@ -169,14 +177,18 @@ def doEverything(fullFilePath):
         break
     result = {}
     result['fullFilePath'] = fullFilePath
-    result['imdbResult'] = fetchImdbResult['imdbResults']
+    if debug:
+        result['imdbResult'] = fetchImdbResult['imdbResults']
+        result['guessItResult'] = gi
     result['finalResult'] = fetchImdbResult['filteredResults']
-    result['guessItResult'] = gi
+    
     results.append(result)
     if debug: 
         printFullResult(result)
 
 def printFullResult(result):
+    if not debug:
+        return
     print("=======================")
     print("Result.fullFilePath", result['fullFilePath'])
     print("Result.guessItResult", result['guessItResult'])
@@ -185,18 +197,49 @@ def printFullResult(result):
     for imdbResult in result['finalResult']:
         print("imdbresult", imdbResult)
         print("imdbresultdat",imdbResult.data)
-    # print("Result.imdbResult (len=", len(result['imdbResult']))
-    # for imdbResult in result['imdbResult']:
-    #     print(imdbResult, imdbResult.data)
+    print("Result.imdbResult (len=", len(result['imdbResult']))
+    for imdbResult in result['imdbResult']:
+        print(imdbResult, imdbResult.data)
 
 def printPartialResult(result):
+    if not debug:
+        return
     print("===================================")
     print("Result.fullFilePath", result['fullFilePath'])
-    # print("Result.guessItResult", result['guessItResult'])
+    print("Result.guessItResult", result['guessItResult'])
     print("Title: ", result['guessItResult']['title'])
-    # print("Result.finalResult")
+    print("Result.finalResult")
     for imdbResult in result['finalResult']:
         print(imdbResult, imdbResult.data)
+
+#
+# To fetch keys:
+# title
+# kind
+# year
+# cast
+# genres
+# runtimes
+# rating
+# cover url
+# plot outline
+# plot
+# id
+def imdbResultToTrimmedResult(imdbResult):
+    result = {}
+    result['title'] = imdbResult.get('long imdb title')
+    result['kind'] = imdbResult.get('kind')
+    result['year'] = imdbResult.get('year')
+    result['cast'] = None if 'cast' not in imdbResult else [ str(x) for x in imdbResult.get('cast')]
+    result['genres'] = imdbResult.get('genres')
+    result['rating'] = imdbResult.get('rating')
+    result['cover_url'] = imdbResult.get('cover url')
+    result['plot_outline'] = imdbResult.get('plot outline')
+    result['plot'] = imdbResult.get('plot')
+    result['synopsis'] = imdbResult.get('synopsis')
+    result['full-size cover url'] = imdbResult.get('full-size cover url')
+    result['id'] = imdbResult.movieID
+    return result
 
 def processFile(fileName):
     threads = []
@@ -207,28 +250,37 @@ def processFile(fileName):
     with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
         executor.map(doEverything, lines)
         executor.shutdown(wait=True)
-    print("================+FETCHIGNB DBES!!============")
+    if debug:
+        print("================+FETCHIGNB DBES!!============")
     successResults = []
     for result in results:
         if len(result['finalResult']) == 1:
             successResults.append(result)
         else:
-            print("Failed to find movie for: ")
-            printFullResult(result)
-    print("================================================")
-    print("================================================")
-    print("================================================")
+            if debug:
+                print("Failed to find movie for: ")
+                printFullResult(result)
+    if debug:
+        print("================================================")
+        print("================================================")
+        print("================================================")
     for successResult in successResults:
-        print("Successfully found resiult for: ")
-        printPartialResult(successResult)
-    print("================================================")
-    print("SUmmary: ")
-    print("Found results for : ", len(successResults), "titles. ")
-    print("Failed to find results for : ", len(results) - len(successResults), "titles. ")
-    print("Desirable kinds foinr : ", desirableKinds)
-    print("===========================")
-    print("Finale and infla result:")
-    print(results)
+        if debug:
+            print("Successfully found resiult for: ")
+            printPartialResult(successResult)
+    if debug:
+        print("================================================")
+        print("SUmmary: ")
+        print("Found results for : ", len(successResults), "titles. ")
+        print("Failed to find results for : ", len(results) - len(successResults), "titles. ")
+        print("Desirable kinds foinr : ", desirableKinds)
+        print("===========================")
+        print("Finale and infla result:")
+
+    for result in results:
+        result['finalResult'] = [ imdbResultToTrimmedResult(x) for x in result['finalResult'] ]
+
+    print(json.dumps(results))
     # To fetch keys:
     # title
     # kind
@@ -240,11 +292,8 @@ def processFile(fileName):
     # cover url
     # plot outline
     # plot
+    # id
 
-
-
-ia = IMDb()
-print(ia.get_movie_infoset())
 
 processFile('data/possibleMovies.txt')
 
