@@ -7,7 +7,7 @@ with open("finalResult5.json", 'r') as f:
 # moviesJson = json.loads("finalResult5.json")
 
 def notSoGoodMovie(movieData):
-	if movieData['genres'] and  'Comedy' in movieData['genres']:
+	if movieData['genres'] and  'Comedy' in movieData['genres'] and 'Romance' not in movieData['genres']:
 		if movieData['rating'] is not None  and movieData['rating'] < 3:
 			return True
 	else:
