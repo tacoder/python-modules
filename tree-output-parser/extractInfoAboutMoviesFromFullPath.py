@@ -14,13 +14,15 @@ import re
 import socket
 import jsonpickle
 socket.setdefaulttimeout(5)
+from pathlib import Path
+
 
 LEAST_PROBABLE_MOVIE_SIZE=300*1000*1000
 exclusionPaths = ['./DATA/Series/', './laptop backup/Shalini']
-undesirableKinds = ['episode', 'video game', 'tv movie', 'short']
+undesirableKinds = ['episode', 'video game', 'short', 'tv series', 'tv mini series', 'video movie', 'tv miniseries']
 desirableKinds = []
 cache = {}
-results = []    
+results = []
 
 debug=False
 
@@ -54,7 +56,7 @@ def isDesirable(imdbResult):
     # if imdbResult.data['kind'] == 'episode':
     if 'kind' not in imdbResult.data:
         print("kind not avaiable for movie ", imdbResult, " data for the same is: ", imdbResult.data)
-        return true # We don't know the kind, so just let it thorough!
+        return True # We don't know the kind, so just let it thorough!
     kind = imdbResult.data['kind']
     isDesirable = kind not in undesirableKinds
     if isDesirable:
@@ -115,9 +117,13 @@ def getBestMatch(movieData, imdbResultSet):
     imdbResultSet = filterByNameBestMatch(movieData, imdbResultSet)
     if debug:
         outputImdbResults("Afterop:filterByNameBestMatch Matches are: ", imdbResultSet)
-    imdbResultSet = ifEpisodeRemoveMovies(movieData, imdbResultSet)
-    if debug:
-        outputImdbResults("Afterop:ifEpisodeRemoveMovies Matches are: ", imdbResultSet)
+    # imdbResultSet = removeUnratedMovies(movieData, imdbResultSet)
+    # if debug:
+    #     outputImdbResults("Afterop:removeUnratedMovies Matches are: ", imdbResultSet)
+
+    #imdbResultSet = ifEpisodeRemoveMovies(movieData, imdbResultSet)
+    #if debug:
+    #    outputImdbResults("Afterop:ifEpisodeRemoveMovies Matches are: ", imdbResultSet)
     return imdbResultSet
 
 def fetchImdb(guessItOutput):
@@ -159,38 +165,75 @@ def fetchImdb(guessItOutput):
     result = {}
     result['filteredResults'] = filteredResults
     result['imdbResults'] = s_result
+    result['nameMatched'] = title
     cache[title] = result
     return result
 
-def doEverything(fullFilePath):
+def betterResult(oldResult, newResult):
+    return oldResult
+
+def invalidResult(invalidResult):
+    return len(invalidResult["filteredResults"]) != 1
+
+def attemptToFetchBetterResults(currentResult, fullFilePath):
+    if(debug):
+        print("Attempting to fetch better results!")
+    p = Path(fullFilePath)
+    folderName = p.parent
+    gi = guessit(folderName)
+    if('title' not in gi):
+        gi["title"] = folderName
+    fetchImdbResult = fetchImdb(gi)
+    if not invalidResult(fetchImdbResult):
+        return fetchImdbResult;
+    else :
+        return betterResult(currentResult, fetchImdbResult)
+
+
+def cleanUpFileName(filename):
+    filename = filename.replace('&amp;','&')
+    return filename
+
+
+
+def doEverything(movie):
+    fullFilePath = movie["fullpath"]
     if debug:
         print(fullFilePath);
-    gi = guessit(os.path.basename(fullFilePath))
+    filename = os.path.basename(fullFilePath)
+    filename = os.path.splitext(filename)[0]
+    cleanedUpFileName = cleanUpFileName(filename)
+    gi = guessit(cleanedUpFileName)
+    if('title' not in gi):
+        gi["title"] = Path(fullFilePath).stem
     if debug:
-        print("guessit output ", gi)
+        print("guessit output for ",fullFilePath, " : " ,gi)
     while True:
         try:
             fetchImdbResult = fetchImdb(gi)
         except:
-            print("Retrying for", gi['title'])
+            if debug:
+                print("Retrying for", gi['title'])
             continue
         break
+    if(invalidResult(fetchImdbResult)):
+        fetchImdbResult = attemptToFetchBetterResults(fetchImdbResult, fullFilePath)
     result = {}
-    result['fullFilePath'] = fullFilePath
+    result['movie'] = movie
     if debug:
         result['imdbResult'] = fetchImdbResult['imdbResults']
         result['guessItResult'] = gi
     result['finalResult'] = fetchImdbResult['filteredResults']
-    
+    result['nameMatched'] = fetchImdbResult['nameMatched']
     results.append(result)
-    if debug: 
+    if debug:
         printFullResult(result)
 
 def printFullResult(result):
     if not debug:
         return
     print("=======================")
-    print("Result.fullFilePath", result['fullFilePath'])
+    print("Result.movie", result['movie'])
     print("Result.guessItResult", result['guessItResult'])
     print("Title chosen by guessIt: ", result['guessItResult']['title'])
     print("Result.finalResult (len=", len(result['finalResult']))
@@ -198,14 +241,14 @@ def printFullResult(result):
         print("imdbresult", imdbResult)
         print("imdbresultdat",imdbResult.data)
     print("Result.imdbResult (len=", len(result['imdbResult']))
-    for imdbResult in result['imdbResult']:
-        print(imdbResult, imdbResult.data)
+    # for imdbResult in result['imdbResult']:
+    #     print(imdbResult, imdbResult.data)
 
 def printPartialResult(result):
     if not debug:
         return
     print("===================================")
-    print("Result.fullFilePath", result['fullFilePath'])
+    print("Result.movie", result['movie'])
     print("Result.guessItResult", result['guessItResult'])
     print("Title: ", result['guessItResult']['title'])
     print("Result.finalResult")
@@ -241,15 +284,20 @@ def imdbResultToTrimmedResult(imdbResult):
     result['id'] = imdbResult.movieID
     return result
 
+
+def traverse(data):
+     searchMovies(data["movies"])
+
 def processFile(fileName):
+         with open(fileName) as f:
+             data = json.load(f)
+             traverse(data)
+
+def searchMovies(movies):
     threads = []
-    lines = []
-    with open(fileName) as f:
-        lines = f.readlines()
-    lines = [line.strip() for line in lines]
     with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
-        executor.map(doEverything, lines)
-        executor.shutdown(wait=True)
+       executor.map(doEverything, movies)
+       executor.shutdown(wait=True)
     if debug:
         print("================+FETCHIGNB DBES!!============")
     successResults = []
@@ -294,20 +342,27 @@ def processFile(fileName):
     # plot
     # id
 
+testRun=False
+if testRun:
+    debug = True
+    # movie = {"fullpath":"/mnt/seagate2tb/DATA/Movies/English/High Def/300.mkv"}
+    movie = {
+        "fullpath": " /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Sherlock Holmes DVDRip XviD-DiAMOND [www FilmsBT.com]/Sherlock.Holmes.DVDRip.XviD-DiAMOND-cd1.avi"}
+    # movie = {"fullpath":"/mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/The Taking Of Pelham 123 (2009)/arrow-top123-cd2.avi"}
+    # fileName="./torrents/completed/Fargo.Season.2.720p.BluRay.x264.ShAaNiG/Fargo.S02E08.720p.BluRay.x264.ShAaNiG.mkv"
+    # fileName= "./DATA/Movies/new ones/Crazy.Stupid.Love.2011.720p.BrRip.x264.YIFY.mp4"
+    # fileName="./DATA/Movies/English/Watched Normal Resolution/Crash [Eng] [2005].avi"
 
-processFile('data/possibleMovies.txt')
+    # To check for below movies
+    # ./DATA/Movies/Movies/12 Angry Men.avi
+    # ./DATA/Movies/Movies/Due Date.avi #can remove video moviue
+    # ./DATA/Movies/Movies/Collateral.mkv
+    # ./DATA/Movies/Movies/The Aviator (2004).mkv
+    # ./DATA/Movies/new ones/16.wishes.2010.hdtv.xvid-momentum.avi
+    # ./New folder (2)/movies/Fatal Attraction [1987] [IMDB_6.8]/FatalAttraction_DVDRip.avi
+    doEverything(movie)
+    # debug=True
+else:
+    processFile('data/movies-data-grouped.json')
+#
 
-# debug=True
-# fileName="./torrents/completed/Fargo.Season.2.720p.BluRay.x264.ShAaNiG/Fargo.S02E08.720p.BluRay.x264.ShAaNiG.mkv"
-# fileName= "./DATA/Movies/new ones/Crazy.Stupid.Love.2011.720p.BrRip.x264.YIFY.mp4"
-# fileName="./DATA/Movies/English/Watched Normal Resolution/Crash [Eng] [2005].avi"
-
-#To check for below movies
-# ./DATA/Movies/Movies/12 Angry Men.avi
-# ./DATA/Movies/Movies/Due Date.avi #can remove video moviue
-# ./DATA/Movies/Movies/Collateral.mkv
-# ./DATA/Movies/Movies/The Aviator (2004).mkv
-# ./DATA/Movies/new ones/16.wishes.2010.hdtv.xvid-momentum.avi
-# ./New folder (2)/movies/Fatal Attraction [1987] [IMDB_6.8]/FatalAttraction_DVDRip.avi
-# doEverything(fileName)
-# debug=True
