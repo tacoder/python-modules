@@ -158,7 +158,7 @@ def fetchImdb(guessItOutput):
             try:
                 ia.update(result, ['main','synopsis'])
             except:
-                print("Retyring full search for ", result)
+                # print("Retyring full search for ", result)
                 continue
             break
         # pass
@@ -179,7 +179,13 @@ def attemptToFetchBetterResults(currentResult, fullFilePath):
     if(debug):
         print("Attempting to fetch better results!")
     p = Path(fullFilePath)
-    folderName = p.parent
+    folderName = p.parent.name
+    if(folderName == "Movies") or folderName == "Hindi":
+        # print("returning to original restuls as movies folder", folderName)
+        return currentResult
+    else:
+        if (debug):
+            print("going ahead with finding better results as folder name is not god damn movies" , folderName)
     gi = guessit(folderName)
     if('title' not in gi):
         gi["title"] = folderName
@@ -188,6 +194,9 @@ def attemptToFetchBetterResults(currentResult, fullFilePath):
         return fetchImdbResult;
     else :
         return betterResult(currentResult, fetchImdbResult)
+
+
+
 
 
 def cleanUpFileName(filename):
@@ -218,6 +227,9 @@ def doEverything(movie):
         break
     if(invalidResult(fetchImdbResult)):
         fetchImdbResult = attemptToFetchBetterResults(fetchImdbResult, fullFilePath)
+    else:
+        if(debug):
+            print("Skipping better results")
     result = {}
     result['movie'] = movie
     if debug:
@@ -342,12 +354,12 @@ def searchMovies(movies):
     # plot
     # id
 
-testRun=False
+testRun=True
 if testRun:
     debug = True
     # movie = {"fullpath":"/mnt/seagate2tb/DATA/Movies/English/High Def/300.mkv"}
     movie = {
-        "fullpath": " /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Sherlock Holmes DVDRip XviD-DiAMOND [www FilmsBT.com]/Sherlock.Holmes.DVDRip.XviD-DiAMOND-cd1.avi"}
+        "fullpath": "/mnt/seagate2tb/DATA/Movies/Movies/Sinbad - Legend of the Seven Seas/AVSEQ04.dat"}
     # movie = {"fullpath":"/mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/The Taking Of Pelham 123 (2009)/arrow-top123-cd2.avi"}
     # fileName="./torrents/completed/Fargo.Season.2.720p.BluRay.x264.ShAaNiG/Fargo.S02E08.720p.BluRay.x264.ShAaNiG.mkv"
     # fileName= "./DATA/Movies/new ones/Crazy.Stupid.Love.2011.720p.BrRip.x264.YIFY.mp4"

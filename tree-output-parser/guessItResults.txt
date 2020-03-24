@@ -1,0 +1,2907 @@
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Matrix 3 Revolutions.mkv
+Guessed name: The Matrix 3 Revolutions
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Matrix Reloaded.mkv
+Guessed name: The Matrix Reloaded
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/f-paranormal.2.720.mkv
+Guessed name: f-paranormal 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Wanted (2008).mkv
+Guessed name: Wanted
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Matrix.mkv
+Guessed name: The Matrix
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Sin City/Sin.City.2005.HDTV.x264.AAC.MatRoska.NhaNc3.mkv
+Guessed name: Sin City
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Letters from Iwo Jima/Letters.From.Iwo.Jima.2006.720p.BRRip.XviD.AC3-ViSiON.avi
+Guessed name: Letters From Iwo Jima
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Lawrence of Arabia/Lawrence.of.Arabia.1962.HDRip.H264.AAC.5.1ch.Gopo.mp4
+Guessed name: Lawrence of Arabia
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/Watchmen/Watchmen [2009].mkv
+Guessed name: Watchmen
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/The Dark Knight.mkv
+Guessed name: The Dark Knight
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Harry Potter Series/Harry Potter And The Half Blood Prince@sg.mkv
+Guessed name: Harry Potter And The Half Blood Prince@sg
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/Kick-Ass 2010 720p BRRip/Kick-Ass.2010.720p.BRRip.XviD-SHiRK.avi
+Guessed name: Kick-Ass
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Kick-Ass 2010 720p BRRip/Kick-Ass.2010.720p.BRRip.XviD-SHiRK.avi
+Guessed name: Kick-Ass
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Lord of the Rings/Lord of The Rings - The Return of The King [2003].mkv
+Guessed name: Lord of The Rings
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Lord of the Rings/Lord of The Rings - The Fellowship of The Ring [2001].mkv
+Guessed name: Lord of The Rings
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Matrix Trilogy/The Matrix (1999) BD-Rip@ShowStopper.mkv
+Guessed name: The Matrix
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Lord of the Rings/Lord of The Rings - The Two Towers.mkv
+Guessed name: Lord of The Rings
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Red Cliff 2-Chi bi xia Jue zhan tian xia-(2009).mkv
+Guessed name: Red Cliff 2-Chi bi xia Jue zhan tian xia
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/Red Cliff 2-Chi bi xia Jue zhan tian xia-(2009).mkv
+Guessed name: Red Cliff 2-Chi bi xia Jue zhan tian xia
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/Casino Royale (2006).mkv
+Guessed name: Casino Royale
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Dark Knight 2008 BRRip 720p H264-3Li/The Dark Knight.mp4
+Guessed name: The Dark Knight
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/The Matrix Revolutions.mkv
+Guessed name: The Matrix Revolutions
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Matrix Trilogy/The Matrix Revolutions.mkv
+Guessed name: The Matrix Revolutions
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Twilight Saga - New Moon (2009).mkv
+Guessed name: The Twilight Saga
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Twilight Saga/The Twilight Saga - New Moon (2009) BD-Rip@ShowStopper.mkv
+Guessed name: The Twilight Saga
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/X-Men (All)/X-Men 2 - X2 (2003) (BD).mkv
+Guessed name: X-Men 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Twilight Series/The Twilight Saga Breaking Dawn Part 1/The Twilight Saga Breaking Dawn Part 1 2011 1080p BRRip x264 AAC-26K.mp4
+Guessed name: The Twilight Saga Breaking Dawn
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Pride &amp; Prejudice/Pride.And.Prejudice.2005.720p.BluRay.x264.AC3-CMCT.mkv
+Guessed name: Pride And Prejudice
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/X-Men (All)/X-Men Origins 4 - Wolverine (2009) (BD).mkv
+Guessed name: X-Men Origins 4
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Robin Hood(2010).avi
+Guessed name: Robin Hood
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Robin Hood 2010 R5 AC3 XViD - IMAGiNE/Robin Hood 2010 R5 AC3 XViD - IMAGiNE.avi
+Guessed name: Robin Hood
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/The Matrix Reloaded.mkv
+Guessed name: The Matrix Reloaded
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Matrix Trilogy/The Matrix Reloaded.mkv
+Guessed name: The Matrix Reloaded
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/300.mkv
+Guessed name: Movies
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/300.mkv
+Guessed name: High Def
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/Inception 2010 BRRip 720p/Inception.2010.BRRip.720p.H264.Feel-Free.mp4
+Guessed name: Inception
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Fight Club 1999 BDRip H264 AAC-SecretMyth (Kingdom-Release)/Fight Club.mp4
+Guessed name: Fight Club
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The.Golden.Compass/The.Golden.Compass.2007.BRRip.Xvid.AC3.PRoDJi.avi
+Guessed name: The Golden Compass
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/Star Trek 2009.mkv
+Guessed name: Star Trek
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/Mesrine (Part 1&amp;2)(2008) BDrip 720/Mesrine.(Part.1).Killer.Instinct.(2008).BDrip.720.AAC.Eng.Subs.[GREY-SHADOW].mkv
+Guessed name: Mesrine
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/Mesrine (Part 1&amp;2)(2008) BDrip 720/Mesrine.(Part. 2).Public.Enemy.No1.(2008).BDrip.720.AAC.Eng.Subs[GREY-SHADOW]..mkv
+Guessed name: Mesrine
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Avatar/AVATAR.2009.DVDscr.x264[Dr_Dan].mkv
+Guessed name: AVATAR
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Black Hawk Down/Black.Hawk.Down.2001.DVDRip.XviD-UnSeeN.avi
+Guessed name: Black Hawk Down
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/The Great Dictator.1940.BluRay.720p.x264.AC3-HDiY.mkv
+Guessed name: The Great Dictator
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Bourne Series/The Bourne Identity/The.Bourne.Identity.2002.HDRip.XviD-UnSeeN.avi
+Guessed name: The Bourne Identity
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Shutter.Island.2010.R5.LiNE.XviD-ViSiON/Shutter.Island.2010.R5.LiNE.XviD-ViSiON.avi
+Guessed name: Shutter Island
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Gladiator.mkv
+Guessed name: Gladiator
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Gangs Of New York/[billboard] Gangs Of New York (2002) 720p Bluray x264.mkv
+Guessed name: Gangs Of New York
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Harry Potter Series/Harry Potter And The Prisoner of Azkaban [2004].mkv
+Guessed name: Harry Potter And The Prisoner of Azkaban
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Aviator (2004).mkv
+Guessed name: The Aviator
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Harry Potter Series/Harry Potter And The Philosophers Stone (2001)@ShowStopper.mkv
+Guessed name: Harry Potter And The Philosophers Stone
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Harry Potter Series/Harry Potter And The Chamber Of Secrets [2002].mkv
+Guessed name: Harry Potter And The Chamber Of Secrets
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Saving Private Ryan.mkv
+Guessed name: Saving Private Ryan
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/saving private ryan/Saving Private Ryan.mkv
+Guessed name: Saving Private Ryan
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Harry Potter Series/Harry Potter &amp; The Goblet Of Fire [2005].mkv
+Guessed name: Harry Potter &amp; The Goblet Of Fire
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/The Matrix 1999 BDRip H264 5.1 ch-SecretMyth (Kingdom-Release)/The Matrix.mp4
+Guessed name: The Matrix
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Red Cliff.avi
+Guessed name: Red Cliff
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/Red Cliff.avi
+Guessed name: Red Cliff
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Departed [2006].mkv
+Guessed name: The Departed
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/God Father Series/The Godfather-I.mkv
+Guessed name: The Godfather-I
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/God Father Series/The Godfather-III (1990)@ShowStopper.mkv
+Guessed name: The Godfather-III
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Sherlock Holmes.avi
+Guessed name: Sherlock Holmes
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Godfather/The Godfather I/The.Godfather.Part.I.1972.BRRip.H264.AAC.5.1ch.Gopo.mp4
+Guessed name: The Godfather
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/God Father Series/The Godfather-II (1974) @ct@.mkv
+Guessed name: The Godfather-II
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Godfather/The Godfather III/The.Godfather.Part.III.1990.BRRip.H264.AAC.5.1ch.Gopo.mp4
+Guessed name: The Godfather
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Godfather/The Godfather II/The.Godfather.Part.II.1974.BRRip.H264.AAC.5.1ch.Gopo.mp4
+Guessed name: The Godfather
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Hurt Locker[2008]BDrip[Eng]-FXG/The Hurt Locker[2008]BDrip[Eng]-FXG.mkv
+Guessed name: The Hurt Locker
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/X-Men (All)/X-Men 1 (2000) (BD).mkv
+Guessed name: X-Men 1
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Rush (2013)/Rush.2013.1080p.BluRay.x264.YIFY.mp4
+Guessed name: Rush
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Push (2009).avi
+Guessed name: Push
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Limelight[1952]Xvid.Cody'sDVDrip/Limelight[1952]Xvid.Cody'sDVDrip.avi
+Guessed name: Limelight
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Road to Perdition/Road.to.Perdition.2002.BRRip.H264.AAC.5.1ch.Gopo.mp4
+Guessed name: Road to Perdition
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Hangover/The Hangover Theatrical Cut 2009 720p BluRay nHD x264 NhaNc3.mkv
+Guessed name: The Hangover
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Top Gun 1986.mkv
+Guessed name: Top Gun
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Hercules (2014) [1080p]/Hercules.2014.1080p.BluRay.x264.YIFY.mp4
+Guessed name: Hercules
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/LORD OF THE RINGS/[LOTR].The.Return.Of.The.King.[2003].avi
+Guessed name: The Return Of The King
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Glory.avi
+Guessed name: Glory
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Unstoppable.2010.R5.avi
+Guessed name: Unstoppable
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Surrogates (2009).mkv
+Guessed name: Surrogates
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Shalimar [1978] [IMDB_6.8]/Shalimar (1978).avi
+Guessed name: Shalimar
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/All Good Things 2010/All.Good.Things.2010.BDRip.XVID.AC3.HQ.Hive-CM8.avi
+Guessed name: All Good Things
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Taken(2008).mkv
+Guessed name: Taken
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Race to Witch Mountain (2009).avi
+Guessed name: Race to Witch Mountain
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Sharaabi.avi
+Guessed name: Sharaabi
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/I am Legend/I.Am.Legend.2007.DVDRip.XviD.AC3.PRoDJi.avi
+Guessed name: I Am Legend
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Cashback (2006).mkv
+Guessed name: Cashback
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Bandit Queen [1994] [IMDB_7.5]/Bandit Queen (1994).avi
+Guessed name: Bandit Queen
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Wanted/WANTED.2009.~2CD.XviD.AC3.ESub.DDR.avi
+Guessed name: WANTED
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Prince.Of.Persia.2010.R4.DVDRip.XviD.AC3-ViSiON2.avi
+Guessed name: Prince Of Persia
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Prince Of Persia 2010 R4 DVDRip/Prince.Of.Persia.2010.R4.DVDRip.XviD.AC3-ViSiON2.avi
+Guessed name: Prince Of Persia
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Udaan.avi
+Guessed name: Udaan
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Aeon Flux/Aeon Flux.avi
+Guessed name: Aeon Flux
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Shaurya/tmg-shaurya-xvid.avi
+Guessed name: tmg-shaurya
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Gangs Of Wasseypur 2 2012 Hindi BRRip 720p x264 AAC 5.1...Hon3y/Gangs Of Wasseypur 2 2012 Hindi BRRip 720p x264 AAC 5.1...Hon3y.mp4
+Guessed name: Gangs Of Wasseypur 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Inception.avi
+Guessed name: Inception
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Crash.mkv
+Guessed name: Crash
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Batman Begins [2005] [HDRip] [HD-DVD] [720p].mkv
+Guessed name: Batman Begins
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Recruit.mkv
+Guessed name: The Recruit
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/Mission Impossible trilogy/Mission Impossible III (2006)@ShowStopper.mkv
+Guessed name: Mission Impossible III
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Collateral.mkv
+Guessed name: Collateral
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/Mission Impossible trilogy/Mission Impossible I (1996).mkv
+Guessed name: Mission Impossible I
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Underworld/Underworld (2003) m-HD.mkv
+Guessed name: Underworld
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/LORD OF THE RINGS/[LOTR].The.Two.Towers.[2002].avi
+Guessed name: The Two Towers
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Harry Potter Series/Harry Potter And The Order Of The Phoenix [2007].mkv
+Guessed name: Harry Potter And The Order Of The Phoenix
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Ugly Truth (2009).mkv
+Guessed name: The Ugly Truth
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/Mission Impossible trilogy/Mission Impossible II (2000)@ShowStopper.mkv
+Guessed name: Mission Impossible II
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Curious Case Of Benjamin Button 2008 DVDScr H264 AAC-SecretMyth (Kingdom-Release)/The Curious Case Of Benjamin Button.mp4
+Guessed name: The Curious Case Of Benjamin Button
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Chit Chor-Amol Palekar/ChitChor-Amol Palekar [www.DesiBBrg.com][-=MaLiKBhai=-][DaXclusive].avi
+Guessed name: ChitChor-Amol Palekar
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Jennifer's Body.mp4
+Guessed name: Jennifer's Body
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/After Earth 2013 R6 x264 AAC-JYK/After Earth 2013 R6 x264 AAC-JYK.mkv
+Guessed name: After Earth
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Chashme Buddoor [1981].avi
+Guessed name: Chashme Buddoor
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/(500) Days Of Summer 2009 BRRip H264 AAC-SecretMyth (Kingdom-Release)/(500) Days Of Summer.mp4
+Guessed name: Days Of Summer
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Unstoppable (2010) DVDRip XviD-MAXSPEED/Unstoppable (2010) DVDRip XviD-MAXSPEED www.torentz.3xforum.ro.avi
+Guessed name: Unstoppable
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Despicable Me (2010).avi
+Guessed name: Despicable Me
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Invictus (2009).avi
+Guessed name: Invictus
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Fair.Game.2010.DVDSCR.XViD.AC3-T0XiC-iNK/Fair.Game.2010.DVDSCR.XViD.AC3-T0XiC-iNK.avi
+Guessed name: Fair Game
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Patton 1970 F J.Schaffner/Patton.1970.F.J.Schaffner.avi
+Guessed name: Patton
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Fighter 2010 SCR XViD - IMAGiNE.avi
+Guessed name: The Fighter
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Transformers 2.avi
+Guessed name: Transformers 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Sunshine (1999)/Sunshine (1999).avi
+Guessed name: Sunshine
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/The Hunt For Red October.avi
+Guessed name: The Hunt For Red October
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Jennifer's.Body.TS.HQ.XviD-FUSiON/fusion-jensbodytshq.avi
+Guessed name: Jennifer's Body
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Star Wars Episode V - The Empire Strikes Back (1980).avi
+Guessed name: Star Wars Episode V
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Star Wars - Episode IV - A New Hope (1977).avi
+Guessed name: Star Wars
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Twilight Series/New Moon/New Moon.mp4
+Guessed name: New Moon
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Other Guys DVDSCR AC3 XViD - IMAGiNE.avi
+Guessed name: The Other Guys
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/G.I. Joe The Rise of Cobra (2009) DVDRip XviD-MAXSPEED/G.I. Joe The Rise of Cobra (2009) DVDRip XviD-MAXSPEED www.torentz.3xforum.ro.avi
+Guessed name: G I Joe The Rise of Cobra
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Avatar.avi
+Guessed name: Avatar
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/The Expendables (2010) DVDSCR XviD-MAXSPEED www.torentz.3xforum.ro.avi
+Guessed name: The Expendables
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Gladiator[2000][Extended.Edition]DvDrip.AC3[Eng]-aXXo.avi
+Guessed name: Gladiator
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Gladiator[Extended.Edition]DvDrip.AC3[Eng]-aXXo/Gladiator[2000][Extended.Edition]DvDrip.AC3[Eng]-aXXo.avi
+Guessed name: Gladiator
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Drag me to Hell (2009).avi
+Guessed name: Drag me to Hell
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Reservoir Dogs.mkv
+Guessed name: Reservoir Dogs
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Notting.Hill.[1999].mkv
+Guessed name: Notting Hill
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Notting Hill.mkv
+Guessed name: Notting Hill
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Inglourious Basterds (2009) DVDRip XviD-MAXSPEED/Inglourious Basterds (2009) DVDRip XviD-MAXSPEED www.torentz.3xforum.ro.avi
+Guessed name: Inglourious Basterds
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Fight Club/FIGHT CLUB.avi
+Guessed name: Fight Club
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Blind Side.avi
+Guessed name: The Blind Side
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The.Blind.Side.DVDSCR.XviD.AC3-DEViSE/devise-tbs.avi
+Guessed name: The Blind Side
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Naram Garam/[DesiSquad]Naram-Garam.avi
+Guessed name: Naram-Garam
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Monsters.Vs.Aliens.2009.BluRay.720p.x264-FxM.mkv
+Guessed name: Monsters Vs Aliens
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Der Baader Meinhof Komplex 2008/Der Baader Meinhof Komplex.mp4
+Guessed name: Der Baader Meinhof Komplex
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Star Trek.avi
+Guessed name: Star Trek
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Surrogates (2009) DVDRip XviD-MAXSPEED/Surrogates (2009) DVDRip XviD-MAXSPEED www.torentz.3xforum.ro.avi
+Guessed name: Surrogates
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Iron Man 2 (2010)/Iron Man 2 (2010) DVDRip XviD-MAXSPEED www.torentz.3xforum.ro.avi
+Guessed name: Iron Man 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Clash of the Titans.avi
+Guessed name: Clash of the Titans
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/LORD OF THE RINGS/[LOTR].The.Fellowship.Of.The.Ring.[2001].avi
+Guessed name: The Fellowship Of The Ring
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Megamind [2010] DVD Screener.avi
+Guessed name: Megamind
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Megamind 2010 SCR XViD AC3 - IMAGiNE/Megamind 2010 SCR XViD AC3 - IMAGiNE.avi
+Guessed name: Megamind
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Inglorious Basterds/Inglorious Basterds [cam-devise][eng subs embed].divx
+Guessed name: Inglorious Basterds
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Inglorious.Basterds.TS.Mic.XviD-DEViSE.NoRar.www.crazy-torrrent.com.avi
+Guessed name: Inglorious Basterds
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/The.Notebook.2004.1080p.Bluray.x264.anoXmous/The.Notebook.2004.1080p.Bluray.x264.anoXmous.mp4
+Guessed name: The Notebook
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Cats and Dogs The Revenge of Kitty Galore.2010.TS.XVID-MAGNET [NO-RAR] - [ www.torrentday.com ]/MGTCats dogs.2.avi
+Guessed name: Cats and Dogs The Revenge of Kitty Galore
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Season.Of.The.Witch.2011.TS.V2.FULL.LINE.XViD.AC3-T0XiC-iNK/Season.Of.The.Witch.2011.TS.V2.FULL.LINE.XViD.AC3-T0XiC-iNK.avi
+Guessed name: Season Of The Witch
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Remember Me (2010) DVDRip XviD-MAXSPEED/Remember Me (2010) DVDRip XviD-MAXSPEED www.torentz.3xforum.ro.avi
+Guessed name: Remember Me
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Predators (2010) R5 XviD-MAXSPEED/Predators (2010) R5 XviD-MAXSPEED www.torentz.3xforum.ro.avi
+Guessed name: Predators
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Batman Begins/Batman Begins KLAXXON.avi
+Guessed name: Batman Begins KLAXXON
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/127 Hours.avi
+Guessed name: Movies
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/127.Hours.2010.DVDSCR.AC3.XViD-T0XiC-iNK/127.Hours.2010.DVDSCR.AC3.XViD-T0XiC-iNK.avi
+Guessed name: 127 Hours
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Deewar[1975].avi
+Guessed name: Deewar
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Deewar[1975].avi
+Guessed name: Deewar
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Saw Series/Saw 3D.avi
+Guessed name: Saw
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Gandhi.avi
+Guessed name: Gandhi
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Paranormal.Activity.Screener.XVID-IMAGiNE/Paranormal.Activity.DVDScr.XviD-IMAGiNE.avi
+Guessed name: Paranormal Activity
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Toy Story 3 DVDSCR/Toy.Story.3.DVDSCR - JamBo.avi
+Guessed name: Toy Story 3
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Toy Story 3 DVDSCR/Toy.Story.3.DVDSCR - JamBo.avi
+Guessed name: Toy Story 3
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/X-Men (All)/X-Men 3 - The Last Stand (2006).mkv
+Guessed name: X-Men 3
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/King Arthur[2004]/King Arthur[2004].avi
+Guessed name: King Arthur
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Hum Tum - DVD Rip.XviD - XDB.avi
+Guessed name: Hum Tum
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Yadon Ki Barat-DvdRip-XviD-63Rip.avi
+Guessed name: Yadon Ki Barat
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/El secreto de sus ojos - The Secret in their Eyes (2009).avi
+Guessed name: El secreto de sus ojos
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Big Fish/big_fish.avi
+Guessed name: Big Fish
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Heat [1995]-HD/Heat - Mr. KickASS.mp4
+Guessed name: Heat
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Usual Suspects.mkv
+Guessed name: The Usual Suspects
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/step up 2 the streets mHD blu ray/Step.Up.2.The.Streets.2008.m-HD.x264-bravo.mkv
+Guessed name: Step Up 2 The Streets
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Madagascar - Escape 2 Africa (2008) m-HD@ShowStopper.mkv
+Guessed name: Madagascar
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/A mighty heart/a mighty heart.avi
+Guessed name: A mighty heart
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Usual Suspects/The Usual Suspects (1995).mkv
+Guessed name: The Usual Suspects
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Collateral [2004]/Collateral.avi
+Guessed name: Collateral
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/The Girl (Trilogy)/The Girl Who Played With Fire (2009)/The.Girl.Who.Played.With.Fire.2009.DVDRip.XviD-JR.Dubbed.English.avi
+Guessed name: The Girl Who Played With Fire
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Species.1,2,3,4.[1995,1998,2004].DVDRip/Species 4 The Awakening KLAXXON.avi
+Guessed name: Species 1,2,3,4
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Walk to Remember DVD SEEDERS TEAM/VIDEO_TS/VTS_01_1.VOB
+Guessed name: VTS
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Walk to Remember DVD SEEDERS TEAM/VIDEO_TS/VTS_01_2.VOB
+Guessed name: VTS
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/OC/1/VTS_01_3.VOB
+Guessed name: VTS
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Queen (2014)/Queen 2014 Hindi 720p DvDRip x264 AAC...Hon3y.mkv
+Guessed name: Queen
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Pink Floyd The Wall/VIDEO_TS/VTS_01_1.VOB
+Guessed name: VTS
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Titanic.avi
+Guessed name: Titanic
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Species.1,2,3,4.[1995,1998,2004].DVDRip/Species 1 - DVDRip-KLAXXON.avi
+Guessed name: Species 1,2,3,4
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/TheUntouchables.avi
+Guessed name: TheUntouchables
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Braveheart (1995)m-HD--bash.mkv
+Guessed name: Braveheart
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Reds/Disc 1.avi
+Guessed name: Disc 1
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/The.Karate.Kid..avi
+Guessed name: The Karate Kid
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Braveheart[1995].avi
+Guessed name: Braveheart
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/american hustle/American Hustle (2013)/American.Hustle.2013.720p.BluRay.x264.YIFY.mp4
+Guessed name: American Hustle
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Walk to Remember DVD SEEDERS TEAM/VIDEO_TS/VTS_01_3.VOB
+Guessed name: VTS
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Step.Up.3D.2010.BDRip.AmoviesZ.com.mkv
+Guessed name: Step Up
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Legends.Of.The.Fall[1994]DvDRip-Rdgrnnr/Legends Of The Fall.avi
+Guessed name: Legends Of The Fall
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Inception[2010]DvDrip[Eng]-FXG/Inception[2010]DvDrip[Eng]-FXG.avi
+Guessed name: Inception
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Transformers Revenge of the Fallen[2009]DvDrip[Eng]-FXG/Transformers Revenge of the Fallen[2009]DvDrip[Eng]-FXG.avi
+Guessed name: Transformers Revenge of the Fallen
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Robin Hood[2010][Unrated Edition]DvDrip[Eng]-FXG.avi
+Guessed name: Robin Hood
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Red/Red.2010.DVDsc.JEKYLL.avi
+Guessed name: Red
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/CAPTAIN PHILLIPS/Captain.Phillips.2013.720p.BluRay.x264.YIFY.mp4
+Guessed name: Captain Phillips
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Sabrina 1995 (Canus Movies by Jade)/Sabrina.avi
+Guessed name: Sabrina
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/PrisM-TwilightSagaEclipse.avi
+Guessed name: PrisM-TwilightSagaEclipse
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The First Great Train Robbery(1979).avi
+Guessed name: The First Great Train Robbery
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Day Of The Jackal [1973]/The.Day.Of.The.Jackal.1973.DVDRip.XViD-BTSFilms.avi
+Guessed name: The Day Of The Jackal
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Ninja Assassin (2009) DVDRip XviD-MAXSPEED/Ninja Assassin (2009) DVDRip XviD-MAXSPEED.avi
+Guessed name: Ninja Assassin
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Kill Bill/Volume 2/Kill Bill.Volume 2(2004)(DvdRip.Xvid)-BRIDOG-.avi
+Guessed name: Kill Bill Volume 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Babel[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: Babel
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Australia[2008]DvDrip-aXXo/Australia[2008]DvDrip-aXXo.avi
+Guessed name: aXXo
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/seven pounds.[2008.Eng].DVDScr.DivX-LTT/Seven Pounds.[2008.Eng].DVDScr.DivX-LTT.avi
+Guessed name: Seven Pounds
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Public.Enemies.2009.DvDRip-FxM/Public.Enemies.2009.DvDRip-FxM.avi
+Guessed name: Public Enemies
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Public.Enemies.2009.DvDRip-FxM/Public.Enemies.2009.DvDRip-FxM.avi
+Guessed name: Public Enemies
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Inglorious Basterds/Inglourious.Basterds.2009.DvDRip-FxM.avi
+Guessed name: Inglourious Basterds
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/There.Will.Be.Blood[2007]DvDrip[Eng]-aXXo/There.Will.Be.Blood[2007]DvDrip[Eng]-aXXo.avi
+Guessed name: There Will Be Blood
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Aisha DVDRip xRG.avi
+Guessed name: Aisha
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Harry Potter And The Philosopher's stone/Harry Potter And The Philosopher's stone_extended edition_x264man.mkv
+Guessed name: Harry Potter And The Philosopher's stone extended edition
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Twilight Series/The Twilight Saga Breaking Dawn Part 2 (2012)/The.Twilight.Saga.Breaking.Dawn.Part.2.2012.720p.BRrip.x264.GAZ.YIFY.mp4
+Guessed name: The Twilight Saga Breaking Dawn
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/BUTCH CASSIDY AND THE SUNDANCE KID [SPECIAL EDITION]-DVDRIP[ENG]-JOCKTHERIPPER/butch c.avi
+Guessed name: BUTCH CASSIDY AND THE SUNDANCE KID
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Khatta Meetha 2010 Hindi Pre-DVDRip XviD E-SuB xRG/Khatta Meetha Pre-DVDRip xRG.avi
+Guessed name: Khatta Meetha
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Harry Potter and the Chamber of Secrets/Harry Potter and the Chamber of Secrets_extended edition_x264man.mkv
+Guessed name: Harry Potter and the Chamber of Secrets extended edition
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Transformers[2007]DvDrip[Eng]-aXXo.avi
+Guessed name: Transformers
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Blood Diamond/Blood.Diamond[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: Blood Diamond
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Law Abiding Citizen (2009)/Law Abiding Citizen (2009) DVDRip XviD-MAXSPEED www.torentz.3xforum.ro.avi
+Guessed name: Law Abiding Citizen
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Shutter Island[2010]DvDrip[Eng]-FXG/Shutter Island[2010]DvDrip[Eng]-FXG.avi
+Guessed name: Shutter Island
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Godfather Collection Parts 1-3 '72-'90 DvDrip[Eng]-greenbud1969/The Godfather Part I 1972/The Godfather Part I 1972 DvDrip[Eng]-greenbud1969.avi
+Guessed name: The Godfather
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Godfather Collection Parts 1-3 '72-'90 DvDrip[Eng]-greenbud1969/The Godfather Part III 1990/The Godfather Part III 1990 DvDrip[Eng]-greenbud1969.avi
+Guessed name: The Godfather
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Action Replayy.avi
+Guessed name: Action Replayy
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Invictus[2009]DvDrip[Eng]-FXG.avi
+Guessed name: Invictus
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/1984/George Orwell 1984 DVD-RIP.avi
+Guessed name: George Orwell
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/As.Good.As.It.Gets[1997]/As Good As It Gets.avi
+Guessed name: As Good As It Gets
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/One Two Three 2008 Hindi Repack DVDRip x264 E-SuB xRG/One Two Three 2008 DVDRip x264 E-SuB xRG.mp4
+Guessed name: One Two Three
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/One Two Three 2008 Hindi Repack DVDRip x264 E-SuB xRG/One Two Three 2008 DVDRip x264 E-SuB xRG.mp4
+Guessed name: One Two Three
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Elite Squad[2007]DVDrip[AC-3(5.1)ENG][a UKB-RG Xvid by]- keltz/The Elite Squad[2007]DVDrip[AC-3(5.1)ENG][a UKB-RG Xvid by]- keltz.avi
+Guessed name: The Elite Squad
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Yogi.Bear.2010.TS.H264.Feel-Free/Yogi.Bear.2010.TS.H264.Feel-Free.mp4
+Guessed name: Yogi Bear
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Karthik Calling Karthik 2010 Hindi Pre-DVDRip XviD E-SuB xRG/Karthik Calling Karthik 2010 Pre-DVDRip XviD E-SuB xRG.avi
+Guessed name: Karthik Calling Karthik
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Das.Boot.The.Director's.Cut.DVDRip.848x464-NDR.rmvb
+Guessed name: Das Boot The
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Species.1,2,3,4.[1995,1998,2004].DVDRip/Species 2 - DivxRipBy RUBrTOE.avi
+Guessed name: Species 1,2,3,4
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Reds/Disc 2.avi
+Guessed name: Disc 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/17.Again/devise-17again.avi
+Guessed name: Again
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Red 2 (2013)/Red.2.2013.720p.BluRay.x264.YIFY.mp4
+Guessed name: Red 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Lone Survivor (2013)/Lone.Survivor.2013.720p.BluRay.x264.YIFY.mp4
+Guessed name: Lone Survivor
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Citizen Kane/Citizen Kane.avi
+Guessed name: Citizen Kane
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Lawless [2012]/Lawless.2012.BluRay.720p.x264.YIFY.mp4
+Guessed name: Lawless
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Lives Of Others-GERMAN.avi
+Guessed name: The Lives Of Others
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/H.P.2-Chamber.Of.Secrets[2002]DvDrip-aXXo.avi
+Guessed name: H P 2-Chamber Of Secrets
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/H.P.1-Philosopher's.Stone[2001]DvDrip-aXXo.avi
+Guessed name: H P 1-Philosopher's Stone
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/H.P.5-Order.Of.The.Phoenix[2007]DvDrip-aXXo.avi
+Guessed name: H P 5-Order Of The Phoenix
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/American.Pie.Book.Of.Love.2009.DVDRip.XviD-PrisM/PrisM-ap.avi
+Guessed name: American Pie Book Of Love
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Papillon.avi
+Guessed name: Papillon
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/22 Jump Street (2014)/22.Jump.Street.2014.720p.BluRay.x264.YIFY.mp4
+Guessed name: 22 Jump Street
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Twilight Saga New Moon.avi
+Guessed name: The Twilight Saga New Moon
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Mississippi Burning (1988) Xvid [Dvdrip]/Mississippi Burning (1988) Xvid [Dvdrip]{bpfine}.avi
+Guessed name: Mississippi Burning
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Reader ((2008)) DVDrip(divx)BigbrO/The Reader ((2008)) DVDrip(divx)BigbrO.avi
+Guessed name: The Reader
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/2006 - Casino Royale/Casino Royale [2006].avi
+Guessed name: Casino Royale
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Casino Royale/Casino.Royale[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: Casino Royale
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Departed/The Departed [2006].avi
+Guessed name: The Departed
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/The.Dark.Knight[2008]DvDrip-aXXo/The.Dark.Knight[2008]DvDrip-aXXo.avi
+Guessed name: The Dark Knight
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Defiance.2008/Defiance.2008.DvDRip-FxM.avi
+Guessed name: Defiance
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Defiance.2008.DvDRip-FxM/Defiance.2008.DvDRip-FxM.avi
+Guessed name: Defiance
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Da Vinci Code.avi
+Guessed name: The Da Vinci Code
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Yaarana (1981)Hindi-DVDRip-XviD ~ Smeet.avi
+Guessed name: Yaarana
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Terminator.Salvation.2009.DvDRip-FxM/Terminator.Salvation.2009.DvDRip-FxM.avi
+Guessed name: Terminator Salvation
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The.Holiday[2006]DvDrip[Eng]-aXXo/The.Holiday[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: The Holiday
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Die.Hard.Quadrilogy[2007]DvDrip-aXXo/Die.Hard[1988]DvDrip-aXXo.avi
+Guessed name: Die Hard
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Die.Hard.Quadrilogy[2007]DvDrip-aXXo/Die.Hard-With.A.Vengeance[1995]DvDrip-aXXo.avi
+Guessed name: Die Hard-With A Vengeance
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Die.Hard.Quadrilogy[2007]DvDrip-aXXo/Live.Free.Or.Die.Hard[2007]DvDrip-aXXo.avi
+Guessed name: Live Free Or Die Hard
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Iron.Man[2008]/Iron.Man[2008]DvDrip-aXXo.avi
+Guessed name: Iron Man
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Iron.Man[2008]DvDrip-aXXo/Iron.Man[2008]DvDrip-aXXo.avi
+Guessed name: Iron Man
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Saint (1997)DVDrip.DivX.agk/agk_ Saint.avi
+Guessed name: The Saint
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Perfume-The.Story.Of.A.Murderer[2006]DvDrip[Eng]-aXXo/Perfume-The.Story.Of.A.Murderer[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: Perfume-The Story Of A Murderer
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The Town[2010]DvDrip[Eng]-FXG/The Town[2010]DvDrip[Eng]-FXG.avi
+Guessed name: The Town
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Harry.Potter.And.The.Order.Of.The.Phoenix[2007]/Harry.Potter.And.The.Order.Of.The.Phoenix[2007]DvDrip[Eng]-aXXo.avi
+Guessed name: Harry Potter And The Order Of The Phoenix
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Love.In.The.Time.Of.Cholera[2007]DvDrip[Eng]-aXXo.avi
+Guessed name: Love In The Time Of Cholera
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Spy Game Collector's Edition 2001 DvDrip[Eng]-greenbud1969/Spy Game Collector's Edition 2001 DvDrip[Eng]-greenbud1969.avi
+Guessed name: Spy Game
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Devil's Own/The Devil's Own.avi
+Guessed name: The Devil's Own
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/P.S. I Love You [2007]DvDrip[Eng]-FXG/P.S. I Love You [2007]DvDrip[Eng]-FXG.avi
+Guessed name: P S I Love You
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Catch.Me.If.You.Can/Catch.Me.If.You.Can[ENG][Tushar].avi
+Guessed name: Catch Me If You Can
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Catch.Me.If.You.Can[ENG][DVDRip]/Catch.Me.If.You.Can[ENG][Tushar].avi
+Guessed name: Catch Me If You Can
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Catch Me If You Can/Catch Me If You Can.avi
+Guessed name: Catch Me If You Can
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/GIA [1998] (Uncut) (MultiSubs) DVD Rip Xvid [StB]/GIA [1998] (Uncut) DVD Rip Xvid [StB].avi
+Guessed name: GIA
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Precious (2009) DvdScR.[Xvid] {1337x}-X.avi
+Guessed name: Precious
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Edge of Darkness[2010]/Edge of Darkness[2010]DvDrip[Eng]-FXG.avi
+Guessed name: Edge of Darkness
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Star Wars Collection/II-Attack.Of.The.Clones[2002]DvDrip-aXXo.avi
+Guessed name: Attack Of The Clones
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Star Wars Collection/II-Attack.Of.The.Clones[2002]DvDrip-aXXo.avi
+Guessed name: Attack Of The Clones
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Monsters Inc/Monsters Inc.avi
+Guessed name: Monsters Inc
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Star Wars Collection/III-Revenge.Of.The.Sith[2005]DvDrip-aXXo.avi
+Guessed name: Revenge Of The Sith
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Star Wars Collection/III-Revenge.Of.The.Sith[2005]DvDrip-aXXo.avi
+Guessed name: Revenge Of The Sith
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/SeducingMr.Perfect.avi
+Guessed name: SeducingMr Perfect
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Star Wars Collection/I-The.Phantom.Menace[1999]DvDrip-aXXo.avi
+Guessed name: I-The Phantom Menace
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Star Wars Collection/I-The.Phantom.Menace[1999]DvDrip-aXXo.avi
+Guessed name: I-The Phantom Menace
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Pitch Black/Pitch Black.avi
+Guessed name: Pitch Black
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/righteous kills/part1/MPEGAV/AVSEQ01.DAT
+Guessed name: AVSEQ01 DAT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Predestination (2014)/Predestination.2014.720p.BluRay.x264.YIFY.mp4
+Guessed name: Predestination
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Star Wars Collection/VI-Return.Of.The.Jedi[1983]DvDrip-aXXo.avi
+Guessed name: Return Of The Jedi
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Star Wars Collection/VI-Return.Of.The.Jedi[1983]DvDrip-aXXo.avi
+Guessed name: Return Of The Jedi
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Forest Gump.avi
+Guessed name: Forest Gump
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Manie Pyar Kyon Kiya/mpkk2.DAT
+Guessed name: mpkk2 DAT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Everyone Says I Love You (Woody Allen 1996) XviD DVDRip.avi
+Guessed name: Everyone Says I Love You
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/I Know What You Did Last Summer Thrillogy/I'll Always Know What you Did Last Summer.mp4
+Guessed name: I'll Always Know What you Did Last Summer
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Girl Next Door  [2004] [AC3 2CH] [DVD Rip] [Lt Usher]/The Girl Next Door.avi
+Guessed name: The Girl Next Door
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/the patriot/The Patriot.avi
+Guessed name: The Patriot
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Haasil.avi
+Guessed name: Haasil
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Splice.2010.R5.V2.Line.Xvid-CLASSiFiED.[UsaBit.com]/UsaBit.com_Splice.2010.R5.V2.Line.Xvid-CLASSiFiED.avi
+Guessed name: Splice
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Splice 2010 R5/UsaBit.com_Splice.2010.R5.V2.Line.Xvid-CLASSiFiED.avi
+Guessed name: UsaBit com Splice
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Aaja nachle [idesir.com].avi
+Guessed name: Aaja nachle
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Star Wars VI - Return of the Jedi.avi
+Guessed name: Star Wars VI
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Star Wars Collection/V-The.Empire.Strikes.Back[1980]DvDrip-aXXo.avi
+Guessed name: V-The Empire Strikes Back
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Star Wars Collection/V-The.Empire.Strikes.Back[1980]DvDrip-aXXo.avi
+Guessed name: V-The Empire Strikes Back
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Manie Pyar Kyon Kiya/mpkk1.DAT
+Guessed name: mpkk1 DAT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Be cool.avi
+Guessed name: Be cool
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Be cool.avi
+Guessed name: Be cool
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Bachna Ae Haseeno (2008).avi
+Guessed name: Bachna Ae Haseeno
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Bachna Ae Haseeno (2008).avi
+Guessed name: Bachna Ae Haseeno
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Pretty Woman.DVDRip.XviD@SweetInside.avi
+Guessed name: Pretty Woman
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Life is beautiful-ITALIAN.avi
+Guessed name: Life is beautiful
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Michael Moore's Documentary/Roger_And_Me_(1989).avi
+Guessed name: Roger And Me
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Serendipity.2001.DVDRip.XViD-BTSFilms.avi
+Guessed name: Serendipity
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Serendipity/Serendipity.2001.DVDRip.XViD-BTSFilms.avi
+Guessed name: Serendipity
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Se7en.avi
+Guessed name: Se7en
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The.Terminal.2004.DVDRip.rksmet.avi
+Guessed name: The Terminal
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Angel$ &amp; Demon$[2009]DvDrip[English][Thriller]-FxW/Angel$ &amp; Demon$[2009]DvDrip[English][Thriller]-FxW.avi
+Guessed name: Angel$ &amp; Demon$
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/The Shawshank Redemption/The Shawshank Redemption dvd rip Xvid.Rets.avi
+Guessed name: The Shawshank Redemption
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/The Last Samurai/The Last Samurai[2003]DvDrip AC3[Eng]-FXG.avi
+Guessed name: The Last Samurai
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Star Trek movies/Star Trek 8 - First Contact.avi
+Guessed name: Star Trek 8
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/A.I - Artificial Intelligence/A.I - Artificial Intelligence.mkv
+Guessed name: A I
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/To Kill A Mockingbird/To Kill A Mockingbird.avi
+Guessed name: To Kill A Mockingbird
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Brazil 1985 Directors Cut/Brazil.1985.Directors.Cut.512x272.24fps.603kbs.V7mp3.MultiSub.WunSeeDee.avi
+Guessed name: Brazil
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Taxi Driver Collector's Edition 1976 DvDrip[Eng]-greenbud1969/Taxi Driver Collector's Edition 1976 DvDrip[Eng]-greenbud1969.avi
+Guessed name: Taxi Driver
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/High Def/The Social Network (2010)/The Social Network (2010) BRRip 720p.mkv
+Guessed name: The Social Network
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Shawshank Redemption[1994]DvDrip[Eng]-FXG/The Shawshank Redemption[1994]DvDrip[Eng]-FXG.avi
+Guessed name: The Shawshank Redemption
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/The Shawshank Redemption[1994]DvDrip[Eng]-FXG/The Shawshank Redemption[1994]DvDrip[Eng]-FXG.avi
+Guessed name: The Shawshank Redemption
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Don(1977)/Don(1977).DVDrip.XviD.TeamTelugu.CD1.avi
+Guessed name: Don
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Night.At.The.Museum[2006 ]DvDRip-Rdgrnnr/Night At The Museum.avi
+Guessed name: Night At The Museum
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Deliverance 1972 DvDrip[Eng]-greenbud1969/Deliverance 1972 DvDrip[Eng]-greenbud1969.avi
+Guessed name: Deliverance
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Godfather Collection Parts 1-3 '72-'90 DvDrip[Eng]-greenbud1969/The Godfather Part II Disc 1 1974/The Godfather Part II Disc 1 1974 DvDrip[Eng]-greenbud1969.avi
+Guessed name: The Godfather
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/In.Bruges.avi
+Guessed name: In Bruges
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Pianist[2002]DvDrip AC3[Eng]-FXG/The Pianist[2002]DvDrip AC3[Eng]-FXG.avi
+Guessed name: The Pianist
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/The Pianist (2002)/The Pianist.avi
+Guessed name: The Pianist
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/[www.anysubs.com] - Sherlock_Holmes/Sherlock.Holmes[2009]DvDrip-aXXo.avi
+Guessed name: Sherlock Holmes
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Disney's Pocahontas.avi
+Guessed name: Disney's Pocahontas
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Other People's Money.avi
+Guessed name: Other People's Money
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/How.To.Train.Your.Dragon.2010.DVDSCR.XviD-ViSiON.avi
+Guessed name: How To Train Your Dragon
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Bommarillu - Movie/Bommarillu.TT.2006.cd2.avi
+Guessed name: Bommarillu TT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Eagle.Eye[2008]DvDrip-aXXo.avi
+Guessed name: Eagle Eye
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Taken/Taken.avi
+Guessed name: Taken
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Taken[2008]DvDrip-aXXo/Taken[2008]DvDrip-aXXo.avi
+Guessed name: Taken
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Cars/Cars[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: Cars
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Cars/DVDRip - Cars - Walt Disney - Pixar [2006] [Eng].avi
+Guessed name: Cars
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Hitch [2005]/Hitch [2005].avi
+Guessed name: Hitch
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Kaminey Pre-DVDRip [KunaL RuleS].mkv
+Guessed name: Kaminey Pre
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/College (2008)/College.avi
+Guessed name: College
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Night at the Museum 2.avi
+Guessed name: Night at the Museum 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/1408[2007].avi
+Guessed name: 1408
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/1408[2007]DvDrip[Eng]-aXXo..avi
+Guessed name: 1408
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Untergang,Der (2004)/Der Untergang(Downfall).By HarryPotter.Cd1.avi
+Guessed name: Untergang,Der
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/9(2009).avi
+Guessed name: 9
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Twilight Eclipse.2010.avi
+Guessed name: Twilight Eclipse
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Twilight Saga/Twilight Eclipse.2010.DvdScr/Twilight Eclipse.2010.DvdScr.Xvid {1337x}-Noir.avi
+Guessed name: Twilight Eclipse
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Angels &amp; Demons (2009) DVDRip XviD-MAXSPEED/Angels &amp; Demons (2009) DVDRip XviD-MAXSPEED www.torentz.3xforum.ro.avi
+Guessed name: Angels &amp; Demons
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Nanny McPhee Returns (2010) DVDRip XviD - MC8/N_MCphee-xvid_MC8.avi
+Guessed name: Nanny McPhee Returns
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Robots.avi
+Guessed name: Robots
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Definitely,Maybe/Definitely,Maybe[2008]DvDrip-aXXo.avi
+Guessed name: Definitely,Maybe
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/The Tourist[2010]R5 Line XviD-ExtraTorrentRG.avi
+Guessed name: The Tourist
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Tropic.Thunder.avi
+Guessed name: Tropic Thunder
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Before Sunset [2004].avi
+Guessed name: Before Sunset
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/27.Dresses[2008]DvDrip[Eng]-aXXo/27.Dresses[2008]DvDrip[Eng]-aXXo.avi
+Guessed name: 27 Dresses
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Orphan [2009].avi
+Guessed name: Orphan
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Terminator Series/The Terminator 2/Terminator 2 - Ultimate Edition CD 1.avi
+Guessed name: Terminator 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/27 Dresses/27.Dresses.(2008).DVDRip.XviD-NeDiVx.avi
+Guessed name: 27 Dresses
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Illusionist.avi
+Guessed name: The Illusionist
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The.Illusionist[2006]DvDrip[Eng]-aXXo/The.Illusionist[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: The Illusionist
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/JFK/JFK Directors Cut Part 2.avi
+Guessed name: JFK
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Salt.2010.R5.LiNE.Xvid {1337x}-Noir/Salt.2010.R5.LiNE.Xvid {1337x}-Noir.avi
+Guessed name: Salt
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Resident Evil Afterlife.2010.R5.LiNE.Xvid {1337x}-Noir.avi
+Guessed name: Resident Evil Afterlife
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Cassandra's Dream.avi
+Guessed name: Cassandra's Dream
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/I.Think.I.Love.My.Wife[2007]DvDrip[Eng]-aXXo.avi
+Guessed name: I Think I Love My Wife
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Casanova.avi
+Guessed name: Casanova
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The.Bank.Job[2008]DvDrip[Eng]-aXXo/The.Bank.Job[2008]DvDrip[Eng]-aXXo.avi
+Guessed name: The Bank Job
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Lars.And.The.Real.Girl[2007]DvDrip[Eng]-aXXo/Lars.And.The.Real.Girl[2007]DvDrip[Eng]-aXXo.avi
+Guessed name: Lars And The Real Girl
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Boy.A[2007]DvDrip-aXXo/Boy.A[2007]DvDrip-aXXo.avi
+Guessed name: Boy A
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Once.Upon.A.Time.In.The.West.1968.528.25fps.538kbps.V5mp3.WunSeeDee/Once.Upon.A.Time.In.The.West.1968.528.25fps.538kbps.V5mp3.WunSeeDee.avi
+Guessed name: Once Upon A Time In The West
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Madagascar[2005]DvDrip-aXXo.avi
+Guessed name: Madagascar
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/In The Valley Of Elah.avi
+Guessed name: In The Valley Of Elah
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/She's The Man [2006]/She's.The.Man[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: She's The Man
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Body of Lies.avi
+Guessed name: Body of Lies
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Body.Of.Lies[2008]/Body.Of.Lies[2008]DvDrip-aXXo.avi
+Guessed name: Body Of Lies
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Body.Of.Lies[2008]DvDrip-aXXo/Body.Of.Lies[2008]DvDrip-aXXo.avi
+Guessed name: Body Of Lies
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Empire of The Sun/CD 1.avi
+Guessed name: Empire of The Sun
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/tere bin laden.avi
+Guessed name: tere bin laden
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Rambo-The.Complete.Collecto'r.Set[2008]DvDrip-aXXo/Rambo.III[1988]DvDrip-aXXo.avi
+Guessed name: Rambo III
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/A Thousand Words (2012)/A.Thousand.Words.2012.720pp.BrRip.x264.YIFY.mp4
+Guessed name: A Thousand Words
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Disturbia [2007]/Disturbia[2007].avi
+Guessed name: Disturbia
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Step Up 1/Step Up 1.avi
+Guessed name: Step Up 1
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Gulaal [2009] [IMDB_8.1]/Gulaal (2009).avi
+Guessed name: Gulaal
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Underworld/Underworld.2.Evolution[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: Underworld 2 Evolution
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Expendables.2010.R5.Xvid {1337x}-Noir/The Expendables.2010.R5.Xvid {1337x}-Noir.avi
+Guessed name: The Expendables
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Shooter[2007].avi
+Guessed name: Shooter
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Just.My.Luck.2006.avi
+Guessed name: Just My Luck
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/P.S. I Love You/P.S.I.Love.You[2007]DvDrip[Eng]-aXXo.avi
+Guessed name: P S I Love You
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Kate and Leopold/Kate&amp;Leopold.avi
+Guessed name: Kate&amp;Leopold
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Catch.A.Fire[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: Catch A Fire
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Little.Miss.Sunshine[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: Little Miss Sunshine
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Little Miss Sunshine/Little.Miss.Sunshine[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: Little Miss Sunshine
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Lucky.You[2007].avi
+Guessed name: Lucky You
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/City Of Angels.avi
+Guessed name: City Of Angels
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/rockers/The.Rocker[2008]DvDrip-aXXo.avi
+Guessed name: The Rocker
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The.Queen[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: The Queen
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The Devils Advocate/The.Devils.Advocate.1997.WS.DvDRiP.DivX.AC3.Cd1-HLS.avi
+Guessed name: The Devils Advocate
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Wall-E[2008]DvDrip-aXXo.avi
+Guessed name: Wall-E
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Wall-E[2008]DvDrip-aXXo/Wall-E[2008]DvDrip-aXXo.avi
+Guessed name: Wall-E
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Empire of The Sun/CD 2.avi
+Guessed name: Empire of The Sun
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/The Conjuring (2013) WEBRip NL subs DutchReleaseTeam/The Conjuring (2013) WEBRip NL subs DutchReleaseTeam.avi
+Guessed name: The Conjuring
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Twilight[2008].avi
+Guessed name: Twilight
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Twilight[2008]DvDrip-aXXo/Twilight[2008]DvDrip-aXXo.avi
+Guessed name: Twilight
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Twilight/Twilight[2008]DvDrip-aXXo/Twilight[2008]DvDrip-aXXo.avi
+Guessed name: Twilight
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Bourne Series/Bourne Ultimatum/The.Bourne.Ultimatum.2007.DVDRip.XViD.AC3.iNT.CD2-CiMG.avi
+Guessed name: The Bourne Ultimatum
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/City of God[2002]/City of God[2002]DvDrip[Port]-FXG.avi
+Guessed name: City of God
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The.Lake.House.avi
+Guessed name: The Lake House
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Crazy.Stupid.Love.2011.720p.BrRip.x264.YIFY.mp4
+Guessed name: Crazy Stupid Love
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Crouching.Tiger.Hidden.Dragon.DVDRIP.XviD-ZEKTORM/Crouching.Tiger.Hidden.Dragon.DVDRIP.XviD-ZEKTORM.avi
+Guessed name: Crouching Tiger Hidden Dragon
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Enemy at the gates.avi
+Guessed name: Enemy at the gates
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Flash Backs Of a fool/Flashbacks.Of.A.Fool.DVDRip.XviD-DoNE.2.avi
+Guessed name: Flashbacks Of A Fool
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Red 2010 BDRip/Red.2010.BDRip.XviD-SAiNTS.avi
+Guessed name: Red
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Die.Hard.Quadrilogy[2007]DvDrip-aXXo/Die.Hard.2-Die.Harder[1990]DvDrip-aXXo.avi
+Guessed name: Die Hard 2-Die Harder
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Bachelor Party in Vegas/Bachelor.Party.Vegas.[2006]DVDRip.AC3[Eng].avi
+Guessed name: Bachelor Party Vegas
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Transformers.Revenge.of.the.Fallen.2009.DVDRIP.H264-ZEKTORM/Transformers.Revenge.of.the.Fallen.2009_2.mp4
+Guessed name: Transformers Revenge of the Fallen
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Shrek 1.avi
+Guessed name: Shrek 1
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Juno[2007]DvDrip[Eng]-aXXo/Juno[2007]DvDrip[Eng]-aXXo.avi
+Guessed name: Juno
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Step Up 2.avi
+Guessed name: Step Up 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Pan's Labyrinth/Pan's.Labyrinth[2006]DvDrip[Eng.Sub]-aXXo.avi
+Guessed name: Pan's Labyrinth
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/3-10.To.Yuma[2007]DvDrip[Eng]-aXXo/3-10.To.Yuma[2007]DvDrip[Eng]-aXXo.avi
+Guessed name: 3-10 To Yuma
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Transporter.3[2008]DvDrip-aXXo/Transporter.3[2008]DvDrip-aXXo.avi
+Guessed name: Transporter 3
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Wild Child[2008]DvDrip-aXXo/Wild.Child[2008]DvDrip-aXXo.avi
+Guessed name: Wild Child
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Coach.Carter.avi
+Guessed name: Coach Carter
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Watchmen.DVDRip.XviD-JUMANJi-1/Watchmen.2009.DVDRip.XviD-JUMANJi-cd2.avi
+Guessed name: Watchmen
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Zeitgeist.avi
+Guessed name: Zeitgeist
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Pursuit of Happyness/The.Pursuit.Of.Happyness[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: The Pursuit Of Happyness
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Kate &amp; Leopold/Kate.&amp;.Leopold[2001]DvDrip[Eng.Subs]-kirklestat.avi
+Guessed name: Kate &amp; Leopold
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Goodfellas/Goodfellas.avi
+Guessed name: Goodfellas
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Unforgiven.avi
+Guessed name: Unforgiven
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Rambo-The.Complete.Collecto'r.Set[2008]DvDrip-aXXo/Rambo-First.Blood.Part.II[1985]DvDrip-aXXo.avi
+Guessed name: Rambo-First Blood
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Before Sunrise [1995].avi
+Guessed name: Before Sunrise
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Bourne Ultimatum(2007).avi
+Guessed name: The Bourne Ultimatum
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Escape From Alcatraz.avi
+Guessed name: Escape From Alcatraz
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The Pink Panther/The Pink Panther [DVDRiP] Eng [2006] -=Flint=-.avi
+Guessed name: The Pink Panther
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Lions.For.Lambs[2007]DvDrip[Eng]-aXXo/Lions.For.Lambs[2007]DvDrip[Eng]-aXXo.avi
+Guessed name: Lions For Lambs
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Kiss Kiss Bang Bang/Kiss Kiss Bang Bang.avi
+Guessed name: Kiss Kiss Bang Bang
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Forgetting Sarah Marshall/Forgetting.Sarah.Marshall[2008][Unrated.Edition]DvDrip-aXXo.avi
+Guessed name: Forgetting Sarah Marshall
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/10 Things I Hate About You/10 Things I Hate About You (DVDrip).avi
+Guessed name: Things I Hate About You
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The.Ruins[2008][Unrated.Edition]DvDrip-aXXo.avi
+Guessed name: The Ruins
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Fight Club (1999) [ENG] [DVDrip]/Fight Club (1999) [ENG] [DVDrip] CD2.avi
+Guessed name: Fight Club
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Never.Back.Down[2008]DvDrip-aXXo/Never.Back.Down[2008]DvDrip-aXXo.avi
+Guessed name: Never Back Down
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Traitor[2008].avi
+Guessed name: Traitor
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Rambo-The.Complete.Collecto'r.Set[2008]DvDrip-aXXo/First.Blood[1982]DvDrip-aXXo.avi
+Guessed name: First Blood
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/walk the line [2005].avi
+Guessed name: walk the line
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/America's Sweethearts.avi
+Guessed name: America's Sweethearts
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Twilight Series/Twilight Saga - Eclipse (2010)/Twilight.Saga.Eclipse.2010.720p.BrRip.x264.YIFY.mp4
+Guessed name: Twilight Saga
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Little.Manhattan.[2005].DVDRiP.[Eng].[Flint].avi
+Guessed name: Little Manhattan
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Little Manhattan/Little Manhattan.[2005].LIMITED.DVDRIP.XVID.[Eng]-DUQA.avi
+Guessed name: Little Manhattan
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The.Sixth.Sense.[1999].DVDRip.Xvid.Blood.avi
+Guessed name: The Sixth Sense
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/WINTER'S BONE (2010) LIMITED DVDRip XviD-AMIABLE/WINTER'S BONE (2010) LIMITED DVDRip XviD-AMIABLE.avi
+Guessed name: WINTER'S BONE
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Kingdom.Of.Heaven[Special.Extended.Director's.Cut]DvDrip[Eng]-aXXo/Kingdom.Of.Heaven.Part2[Special.Extended.Director's.Cut]DvDrip[Eng]-aXXo.avi
+Guessed name: Kingdom Of Heaven
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Jack.Ketchums.The.Girl.Next.Door.2007.DvDRip.AC3 5.1-FxM.avi
+Guessed name: Jack Ketchums The Girl Next Door
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The.Brave.One.DvDRip.Eng-FxM/The.Brave.One.DvDRip.Eng-FxM.avi
+Guessed name: The Brave One
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Sherlock Holmes DVDRip XviD-DiAMOND [www FilmsBT.com]/Sherlock.Holmes.DVDRip.XviD-DiAMOND-cd2.avi
+Guessed name: Sherlock Holmes
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Rambo-The.Complete.Collecto'r.Set[2008]DvDrip-aXXo/Rambo[2008]DvDrip-aXXo.avi
+Guessed name: Rambo
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Apaharan/Apaharan CD1.avi
+Guessed name: Apaharan
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The_Passion_Of_The_Christ [English_Subtitles] (divx52-sickboy88).avi
+Guessed name: The Passion Of The Christ
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Gangs of New York(2002).avi
+Guessed name: Gangs of New York
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Food Inc/Food Inc..avi
+Guessed name: Food Inc
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Munich.2005.DVDRip.XviD.AR/Munich.2005.DVDRip.XviD.AR.cd2.avi
+Guessed name: Munich
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/A.Clockwork.Orange.1971.DVDRip.XviD.avi
+Guessed name: A Clockwork Orange
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Devil Wears Prada/The.Devil.Wears.Prada[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: The Devil Wears Prada
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Heat[1995]DvDrip[Eng]-kirklestat.avi
+Guessed name: Heat
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Heat[1995]DvDrip[Eng]-kirklestat/Heat[1995]DvDrip[Eng]-kirklestat.avi
+Guessed name: Heat
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Van Wilder (Unrated).avi
+Guessed name: Van Wilder
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/The Thin Red Line/The Thin Red Line CD 2.avi
+Guessed name: The Thin Red
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Stargate Movies/Stargate Continum@ THE K!LL3R'S RIP.avi
+Guessed name: Stargate Continum@ THE K!LL3R'S RIP
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Andaz.Apna.Apna.1994.DVD.Rip.XviD.CD1.Lion.King.avi
+Guessed name: Andaz Apna Apna
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Blue Crush DivX-MegaPlay/Blue Crush.avi
+Guessed name: Blue Crush
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/2012/2012 (2009)2.divx
+Guessed name: 2012
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Monsoon Wedding [2001] [IMDB_7.2]/Monsoon Wedding.avi
+Guessed name: Monsoon Wedding
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Inside.Man/Inside.Man.avi
+Guessed name: Inside Man
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Agora/Agora.Cd1-iKA.avi
+Guessed name: Agora
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The.Last.of.the.Mohicans[1992]DvDrip[Eng]-Zeus_Dias.avi
+Guessed name: The Last of the Mohicans
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/V.For.Vendetta[2005]DvDrip[Eng]-aXXo/V.For.Vendetta[2005]DvDrip[Eng]-aXXo.avi
+Guessed name: V For Vendetta
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Cinderella Man (2005) [ENG] [DVDrip]/Cinderella Man (2005) [ENG] [DVDrip] CD2.avi
+Guessed name: Cinderella Man
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/beautiful mind/A Beautiful Mind [Eng][XviD][2001].avi
+Guessed name: A Beautiful Mind
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/PulpFiction/Pulp Fiction (WS) Part 1.avi
+Guessed name: Pulp Fiction
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Pulp Fiction 1994 Widescreen DVDRip/Pulp Fiction (WS) Part 1.avi
+Guessed name: Pulp Fiction
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Sleepless in Seattle (1993)/Sleepless in Seattle (1993) [ENG] [DVDrip] CD2.avi
+Guessed name: Sleepless in Seattle
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Pather Panchali  (1955)/Pather Panchali cd2.avi
+Guessed name: Pather Panchali
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The.Worlds.Fastest.Indian[2005]DvDrip[Eng]-aXXo/The.Worlds.Fastest.Indian[2005]DvDrip[Eng]-aXXo.avi
+Guessed name: The Worlds Fastest Indian
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/PulpFiction/Pulp Fiction (WS) Part 2.avi
+Guessed name: Pulp Fiction
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Pulp Fiction 1994 Widescreen DVDRip/Pulp Fiction (WS) Part 2.avi
+Guessed name: Pulp Fiction
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Eurotrip.avi
+Guessed name: Eurotrip
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Up In The Air/Up in the air.avi
+Guessed name: Up In The Air
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Up.In.The.Air.2009.DVDSCR.XviD-CAMELOT- [ www.torrentday.com ]/camelot-uita/camelot-uita.avi
+Guessed name: Up In The Air
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The.Onion.Movie.2008.STV.Unrated.DVDRiP.XviD-iNTiMiD/intimid-theonionmovie-stv.avi
+Guessed name: The Onion Movie
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Bicycle Thief/The Bicycle Thief [Ladri Di Biciclette] [1948].avi
+Guessed name: The Bicycle Thief
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Blind Side.2009.DvdScr.Xvid {1337x}-Noir/The Blind Side.2009.DvdScr.Xvid {1337x}-Noir.avi
+Guessed name: The Blind Side
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Eyes Wide Shut (1999).divx
+Guessed name: Eyes Wide Shut
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/A Few Good Men.avi
+Guessed name: A Few Good Men
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/I Love You, Beth Cooper (2009) DVDR DivXNL-Team/I Love You, Beth Cooper (2009) DVDR DivXNL-Team.avi
+Guessed name: I Love You, Beth Cooper
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/American Pie 4/American Pie band camp full.avi
+Guessed name: American Pie band camp full
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/21 Grams/21 Grams [2003]DvDrip[Eng]-BugZ.avi
+Guessed name: 21 Grams
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Cube series/Cube Zero[2004]DvDrip[Eng]-BugZ.avi
+Guessed name: Cube Zero
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Pukar.avi
+Guessed name: Pukar
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/LEON -The Professional.avi
+Guessed name: LEON
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Cashback/Cashback.LIMITED.DVDRip.XViD-ESPiSE.avi
+Guessed name: Cashback
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Hancock DvDRip __CHICKEÑGÜÑYÅ™__' XCLUSIV'__.avi
+Guessed name: Hancock
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/STAND_BY_ME_[1986]_[Eng]_[DvdRip]-Thizz/STAND_BY_ME_[1986]_[Eng]_[DvdRip]-Thizz.avi
+Guessed name: STAND BY ME
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Knocked Up/Knocked.Up.UNRATED.DVDRip.XviD-DiAMOND-cd2.avi
+Guessed name: Knocked Up
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Hitchcock Collection/Vertigo.Divx.avi
+Guessed name: Vertigo
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Hair Spray/Hairspray.2007.DVDRip.XviD-DiAMOND.CD1.avi
+Guessed name: Hairspray
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Invictus.DVDSCR.xViD-xSCR/CD2/xscr-invictus_part2[dupedb.com].avi
+Guessed name: Invictus
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Kill Bill/Volume 1/Kill Bill Vol 1[2003]DvDrip[Eng]-Stealthmaster.avi
+Guessed name: Kill Bill Vol 1
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Philadelphia [1993] [IMDB_7.6]/Philadelphia.avi
+Guessed name: Philadelphia
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The.Ghost.And.The.Darkness[1996]DVDrip.XivD[Eng]-AndrewIII/The.Ghost.And.The.Darkness[1996]DVDrip.XivD[Eng]-AndrewIII.avi
+Guessed name: The Ghost And The Darkness
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/raging bull/simon-rb-xvid-int-cd1.avi
+Guessed name: raging bull
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/If Only/If.Only.2004.DVDRip.XviD.AC3.2CH-JJH.avi
+Guessed name: If Only
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Man.Of.The.Year/Man.Of.The.Year[2006]DvDrip[Eng]-aXXo.avi
+Guessed name: Man Of The Year
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Bluffmaster [2005] [IMDB_7.1]/Bluffmaster (2005).avi
+Guessed name: Bluffmaster
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/National Treasure 2/National.Treasure.Book.Of.Secrets.2007.DVDRiP.XViD-DiAMOND.CD1.avi
+Guessed name: National Treasure Book Of Secrets
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Basic Instinct - Sharon Stone - Xvid.avi
+Guessed name: Basic Instinct
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Searching for Bobby Fischer[rickem]Divx.avi
+Guessed name: Searching for Bobby Fischer
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Cube series/Cube 2-Hypercube[2002].avi
+Guessed name: Cube 2-Hypercube
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Star Trek movies/Star Trek 9 - Insurrection.avi
+Guessed name: Star Trek 9
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Omkara 2006 1CD DvDrip [BBrG].avi
+Guessed name: Omkara
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Cube series/Cube[1997]DvDrip[Eng].avi
+Guessed name: Cube
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Lord of War.avi
+Guessed name: Lord of War
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Bluffmaster/CD1.avi
+Guessed name: Bluffmaster
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Terminator Series/The Terminator/The Terminator CD1.avi
+Guessed name: The Terminator
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Where The Wild Things Are 2009 CAM XviD PrisM.NoRar.www.crazy-torrent.com/Where The Wild Things Are 2009 CAM XviD PrisM.NoRar.www.crazy-torrent.com.avi
+Guessed name: Where The Wild Things Are
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Brooklyn's.Finest.2010.DVDSCR.XviD-MegaPlay/Brooklyn's Finest.avi
+Guessed name: Brooklyn's Finest
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Outsourced.(2006).LiMiTED.DVDRip.XviD-LPD.[sharethefiles.com].avi
+Guessed name: Outsourced
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/21.[2008.Eng]/21.[2008.Eng].R5.DivX-LTT.avi
+Guessed name: 21
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Crash [Eng] [2005].avi
+Guessed name: Crash
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The Outfit 1973/The Outfit (1973) John Flynn.avi
+Guessed name: The Outfit
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/1988 - The Last Temptation Of Christ (Dir. Martin Scorsese).avi
+Guessed name: The Last Temptation Of Christ
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Defendor[2009]/Defendor[2009]DvDrip[Eng]-FXG.avi
+Guessed name: Defendor
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Spirited Away [Anime][DvDRip][www.zonatorrent.com]/Spirited Away [Anime][DvDRip][www.zonatorrent.com].avi
+Guessed name: Spirited Away
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Man On Fire [2004].DvDrip[ENG]-P4DGE_[www.superfundo.org]/Man.on.Fire.[2004].DvDrip[ENG]-P4DGE_[www.superfundo.org].avi
+Guessed name: Man on Fire
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The Manchurian Candidate.avi
+Guessed name: The Manchurian Candidate
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Superhero Movie. [2008].DVDRIP.XVID.[Eng]-DUQA.avi
+Guessed name: Superhero Movie
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/1408/intimid-1408-theatrical.avi
+Guessed name: 1408
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Big Fish/Big.Fish.avi
+Guessed name: Big Fish
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Pursuit Of Happyness.avi
+Guessed name: The Pursuit Of Happyness
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Legally Blonde (DVD-DivX).avi
+Guessed name: Legally Blonde
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The Mask DVDRIP xvid/The Mask.avi
+Guessed name: The Mask
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Lock stock and two smoking barrels[DVDRIP]XVID,MP3(KNIGHTY1973)1998/Lock stock and two smoking barrels[DVDRIP]XVID,MP3(KNIGHTY1973)1998.avi
+Guessed name: Lock stock and two smoking barrels
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Barbarians at the gate.avi
+Guessed name: Barbarians at the gate
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Night.At.The.Museum.Battle.Of.The.Smithsonian.2009.DvDRip-FxM/Night.At.The.Museum.Battle.Of.The.Smithsonian.2009.DvDRip-FxM.avi
+Guessed name: Night At The Museum Battle Of The Smithsonian
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Kiss.Kiss.Bang.Bang/kkbb-fico.avi
+Guessed name: kkbb-fico
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The Notebook (2004) [ENG] [DVDrip]/The Notebook (2004) [ENG] [DVDrip].avi
+Guessed name: The Notebook
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/cinderella_man_dvdrip_xvid.avi
+Guessed name: cinderella man
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Good Will Hunting.avi
+Guessed name: Good Will Hunting
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Rudy.avi
+Guessed name: Rudy
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Babys Day Out  @ N@W@@B--%AKV%/Babys Day Out.avi
+Guessed name: Babys Day Out
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/JOHNNY GADDAAR-PDVD-MP4-1CDrip-Shakee.mp4
+Guessed name: JOHNNY GADDAAR-PDVD
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Social Network DVDSCR/The Social Network.avi
+Guessed name: The Social Network
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Social Network DVDSCR/UsaBit.com_noscr-tsn.avi
+Guessed name: The Social Network
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Ring 1 &amp; 2/The Ring.avi
+Guessed name: The Ring
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/MR SINGH &amp; MRS MEHTA [2010] 1CD.avi
+Guessed name: MR SINGH &amp; MRS MEHTA
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/A.Mighty.Heart/dmd-amheart.avi
+Guessed name: dmd-amheart
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Buried[2010]DvDrip[Eng]-FXG/Buried[2010]DvDrip[Eng]-FXG.avi
+Guessed name: Buried
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Shivers.1975.David.Cronenberg.DVDRip.XviD.MakingOff.Org/Shivers.avi
+Guessed name: Shivers
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The Ultimate Gift/The.Ultimate.Gift.DVDRip.XviD-NeDiVx-cd1.avi
+Guessed name: The Ultimate Gift
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/namak halal cd1.avi
+Guessed name: namak halal
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Namak Halal [1982]/namak halal cd1.avi
+Guessed name: Namak Halal
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/My Best Friend's Wedding (1997) [WS].avi
+Guessed name: My Best Friend's Wedding
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/From Paris with Love DVDRip.XviD-DiAMOND/dmd-fpwl.avi
+Guessed name: From Paris with Love
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Win.a.Date.With.Tad.Hamilton.DVDRip.XviD-DMT/dmt-dwted/dmt-wadwth.avi
+Guessed name: Win a Date With Tad Hamilton
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/LA Confidential.divx
+Guessed name: LA Confidential
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Blade Runner[Remastered Director's.Cut]DvDrip[Eng]-aXXo/Blade.Runner[Remastered.Director's.Cut]DvDrip[Eng]-aXXo.avi
+Guessed name: Blade Runner
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Miss Potter/Miss.Potter.(2007).DVDRip.AC3.XviD-PosTX.avi
+Guessed name: Miss Potter
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Cast Away.avi
+Guessed name: Cast Away
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Bella.2006.DVDRip.XviD-JFKXVID/bella-jfkxvid.avi
+Guessed name: Bella
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Larry.The.Cable.Guy.Health.Inspector/Larry_The_Cable_Guy-Health_Inspector.avi
+Guessed name: Larry The Cable Guy-Health Inspector
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Andaz Apna Apna.avi
+Guessed name: Andaz Apna Apna
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Love and other obsessions.avi
+Guessed name: Love and other obsessions
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Bourne Series/Bourne Ultimatum/The.Bourne.Ultimatum.2007.DVDRip.XViD.AC3.iNT.CD1-CiMG.avi
+Guessed name: The Bourne Ultimatum
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Girl Interrupted/GirlInterrupted .avi
+Guessed name: GirlInterrupted
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Inception.DVDRiP.XviD-ARROW/arrow-inception.cd1.avi
+Guessed name: Inception
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/My Girl and I Parang-juuibo (2005)/My_girl_and_I.avi
+Guessed name: My Girl and I Parang-juuibo
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/16.wishes.2010.hdtv.xvid-momentum.avi
+Guessed name: 16 wishes
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/My.Big.Fat.Greek.Wedding[Eng]Dvdrip.Dino.avi
+Guessed name: My Big Fat Greek Wedding
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/I.Could.Never.Be.Your.Woman.2007.DvDRip.Eng.Ac3-FxM.avi
+Guessed name: I Could Never Be Your Woman
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Uninvited[2009]DvDrip[Eng]-FXG/The Uninvited[2009]DvDrip[Eng]-FXG.avi
+Guessed name: The Uninvited
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The Uninvited[2009]DvDrip[Eng]-FXG/The Uninvited[2009]DvDrip[Eng]-FXG.avi
+Guessed name: The Uninvited
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Battle of Algiers (1966).avi
+Guessed name: Battle of Algiers
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Up (2009).divx[46].divx
+Guessed name: Up
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Up.BDRip.XviD-DiAMOND/dmd-up.avi
+Guessed name: Up
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Bluffmaster/CD2.avi
+Guessed name: Bluffmaster
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/A.History.Of.Violence[2005]DvDrip.AC3[Eng]-aXXo/A.History.Of.Violence[2005]DvDrip.AC3[Eng]-aXXo.avi
+Guessed name: A History Of Violence
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Kramer Vs Kramer.avi
+Guessed name: Kramer Vs Kramer
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/I Robot.avi
+Guessed name: I Robot
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Session 9 [DVDRip][2001][Eng][BugzBunny]/Session 9 [DVDRip][2001][Eng][BugzBunny].avi
+Guessed name: Session 9
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/District 9 (2009) DVDRip XviD-MAXSPEED/District 9.avi
+Guessed name: District 9
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Pirates of Silicon Valley (1999)/Pirates Of Silicon Valley.avi
+Guessed name: Pirates of Silicon Valley
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Restrepo.2010.LiMiTED.DOCU.DVDRip.XviD-NODLABS/CD1/restrepo.2010.limited.docu.dvdrip.xvid-nodlabs.cd1.avi
+Guessed name: restrepo
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/CHARIOTS OF FIRE [DVDRiP] [XViD] by WingTip/CHARIOTS OF FIRE [DVDRiP] [XViD] by WingTip.avi
+Guessed name: CHARIOTS OF FIRE
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Yes.Man.2008.DvDRip-FxM/Yes.Man.2008.DvDRip-FxM.avi
+Guessed name: Yes Man
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Traffic[2000]DvDrip.AC3[Eng][Multi-Subs]-Vex/Traffic[2000]DvDrip.AC3[Eng][Multi-Subs]-Vex.avi
+Guessed name: Traffic
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Million.Dollar.Baby[2004]DvDrip[Eng]-TB.avi
+Guessed name: Million Dollar Baby
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Crimson.Tide{Extended.Version}[Eng]Dvdrip.Dino.avi
+Guessed name: Crimson Tide
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Hostel.avi
+Guessed name: Hostel
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Keith (2008)/Keith.2008.LiMiTED.DVDRip.XviD-XanaX.avi
+Guessed name: Keith
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Live.Free.or [Die Hard 4] 2007.DvD.XviD.Ac3-FxM/Live.Free.or [Die Hard 4] 2007.DvD.XviD.Ac3-FxM.avi
+Guessed name: Live Free or
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Vabank.avi
+Guessed name: Vabank
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/17 again ~~bravo~~.avi
+Guessed name: again bravo
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Epic.Movie[2007][Unrated.Edition]DvDrip.AC3[Eng]-aXXo/Epic.Movie[2007][Unrated.Edition]DvDrip.AC3[Eng]-aXXo.avi
+Guessed name: Epic Movie
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Revolutionary Road[2008]DvDrip[Eng]-FXG/Revolutionary Road[2008]DvDrip[Eng]-FXG.avi
+Guessed name: Revolutionary Road
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Sorry Bhai.avi
+Guessed name: Sorry Bhai
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/IMDB 053 - The Maltese Falcon (1941).avi
+Guessed name: IMDB 053
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Animatrix/Animatrix.avi
+Guessed name: Animatrix
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/My sassy girl/carre-my.sassy.girl-xvid.avi
+Guessed name: carre-my sassy girl
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Goodfellas[1990].avi
+Guessed name: Goodfellas
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Waltz.With.Bashir.2008.Int.DVDRip.Eng.Hardsubbed.Lolliepop.avi
+Guessed name: Waltz With Bashir
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Goodfellas.avi
+Guessed name: Goodfellas
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Taking Of Pelham 123 (2009)/arrow-top123-cd1.avi
+Guessed name: The Taking Of Pelham 123
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/The Taking Of Pelham 123 (2009)/arrow-top123-cd1.avi
+Guessed name: The Taking Of Pelham 123
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The Whole Nine Yards/The Whole Nine Yards.avi
+Guessed name: The Whole Nine Yards
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The.Education.of.Charlie.Banks.2007.LIMITED.DVDRip.XviD-REACTOR.[www.FilmsBT.com]/The.Education.of.Charlie.Banks.2007.LIMITED.DVDRip.XviD-REACTOR.avi
+Guessed name: The Education of Charlie Banks
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The Doors (1991)/The Doors (1991)-CD1.avi
+Guessed name: The Doors
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/if only.avi
+Guessed name: if only
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/main meri patni aur voh/Main Meri Patni Aur Woh.DVDRip.By HarryPotter.2005.CD1.avi
+Guessed name: Main Meri Patni Aur Woh
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Terminator Series/Terminator Salvation[2009]DvDrip[Eng]-FXG/Terminator Salvation[2009]DvDrip[Eng]-FXG.avi
+Guessed name: Terminator Salvation
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/300.DVDrip.XviD-perfect.avi
+Guessed name: Movies
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Pather Panchali  (1955)/Pather Panchali cd1.avi
+Guessed name: Pather Panchali
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Harry Potter and the Half Blood Prince (2009)/nedivx-hp6-cd1.avi
+Guessed name: Harry Potter and the Half Blood Prince
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Species.1,2,3,4.[1995,1998,2004].DVDRip/Species 3 - DVDRip-X.avi
+Guessed name: Species 1,2,3,4
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Minority Report.avi
+Guessed name: Minority Report
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Escape.From.Alcatraz.1979/Escape.From.Alcatraz.1979.avi
+Guessed name: Escape From Alcatraz
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Pink Panther 2[2009]DvDrip[Eng]-FXG/The Pink Panther 2[2009]DvDrip[Eng]-FXG.avi
+Guessed name: The Pink Panther 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Schindlers List/CD1/Schindlers.List.1993.INTERNAL.DVDRip.XviD.1-PARTiCLE.[www.descargasweb.net].avi
+Guessed name: Schindlers List
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/dostana/Dostana.Dvd.Rip.CD2.Xvid-By.Subhash.avi
+Guessed name: Dostana
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/dostana/Dostana.Dvd.Rip.CD2.Xvid-By.Subhash.avi
+Guessed name: Dostana
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Notting Hill-1999(6.9)/Notting Hill (1999).avi
+Guessed name: Notting Hill
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Mr Brooks/Mr.Brooks.DVDRiP.XViD-HLS-CD1.[sharethefiles.com].avi
+Guessed name: Mr Brooks
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/THE SILENCE OF THE LAMBS.avi
+Guessed name: THE SILENCE OF THE LAMBS
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/[2002] Die Another Day.avi
+Guessed name: Die Another Day
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Twilight Series/Twilight Saga (2008)/Twilight.Saga.2008.BrRip.720p.X264.YIFY.mp4
+Guessed name: Twilight Saga
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Ring 1 &amp; 2/The.Ring.Two.DVDRip.XviD-2005.[www.descargasweb.net].avi
+Guessed name: The Ring Two
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Apocalypto/Apocalypto CD 1.avi
+Guessed name: Apocalypto
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Its.Complicated.2009.DVDSCR.XviD-MegaPlay/It's Complicated.avi
+Guessed name: Its Complicated
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/American.Pie.Presents.Beta.House[Unrated][2007]DvDrip[Eng].avi
+Guessed name: American Pie Presents Beta House
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Garden State (2004) DVDRp.avi
+Guessed name: Garden State
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Next[2007]DvDrip.AC3[Eng]-aXXo/Next[2007]DvDrip.AC3[Eng]-aXXo.avi
+Guessed name: Next
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Longest Yard/The.Longest.Yard[2005]DvDrip[Eng]-aXXo.avi
+Guessed name: The Longest Yard
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Sleepless in Seattle (1993)/Sleepless in Seattle (1993) [ENG] [DVDrip] CD1.avi
+Guessed name: Sleepless in Seattle
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/The Girl (Trilogy)/The Girl Who Kicked The Hornets Nest (2009)/CD1/tgwkthn.dubbed.cd1-taste.avi
+Guessed name: The Girl Who Kicked The Hornets Nest
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Bachelor.Party.2.The.Last.Temptation.Unrated.2008.DVDRip.Xvi/Bachelor.Party.2.The.Last.Temptation.Unrated.2008.DVDRip.Xvi.avi
+Guessed name: Bachelor Party 2 The Last Temptation
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Bachelor.Party.2/Bachelor.Party.2.The.Last.Temptation.Unrated.2008.DVDRip.Xvi.avi
+Guessed name: Bachelor Party 2 The Last Temptation
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Chronicles of Riddick.mkv
+Guessed name: The Chronicles of Riddick
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Breakfast At Tiffany's/Breakfast At Tiffany's (1961).avi
+Guessed name: Breakfast At Tiffany's
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/dostana/Dostana.Dvd.Rip.CD1.Xvid-By.Subhash.avi
+Guessed name: Dostana
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/dostana/Dostana.Dvd.Rip.CD1.Xvid-By.Subhash.avi
+Guessed name: Dostana
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Invictus.DVDSCR.xViD-xSCR/CD1/xscr-invictus_part1[dupedb.com].avi
+Guessed name: Invictus
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Flags of our Fathers/dmd-foof-cd2.avi
+Guessed name: dmd-foof
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/50 First Dates/50 First Dates (2004) [Eng] [DVDrip].avi
+Guessed name: 50 First Dates
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Vanilla Sky.avi
+Guessed name: Vanilla Sky
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The Darjeeling Limited[2007]/The Darjeeling Limited[2007].avi
+Guessed name: The Darjeeling
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/ItalianJob 2003.avi
+Guessed name: ItalianJob
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Tomb Raider II/Tomb Raider II - Cradle of Life.avi
+Guessed name: Tomb Raider II
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Hitchcock Collection/The.Birds.Xvid.avi
+Guessed name: The Birds
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Twelve Monkeys 1995 XviD ENG.avi
+Guessed name: Twelve Monkeys
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/frankie and johnny.avi
+Guessed name: frankie and johnny
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Striker - DVDRip - XviD - 1CDRip - [DDR]/Striker.avi
+Guessed name: Striker
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Borat[2006]DvDrip.AC3[Eng]-aXXo/Borat[2006]DvDrip.AC3[Eng]-aXXo.avi
+Guessed name: Borat
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Hotel Rwanda/Hotel Rwanda CD1.avi
+Guessed name: Hotel Rwanda
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Lucy (2014)/Lucy.2014.720p.BluRay.x264.YIFY.mp4
+Guessed name: Lucy
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/namak halal cd2.avi
+Guessed name: namak halal
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Namak Halal [1982]/namak halal cd2.avi
+Guessed name: Namak Halal
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Good Night and Good Luck.avi
+Guessed name: Good Night and Good Luck
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Kids Are All Right[2010].avi
+Guessed name: The Kids Are All Right
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/2012/2012 (2009)1.divx
+Guessed name: 2012
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Flags of our Fathers/dmd-foof-cd1.avi
+Guessed name: dmd-foof
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/over the hedge/Over The Hedge [2006] [AC3].avi
+Guessed name: Over The Hedge
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/The Hangover Part 3 (2013) R6 NL subs DutchReleaseTeam.avi
+Guessed name: The Hangover
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Sherlock Holmes DVDRip XviD-DiAMOND [www FilmsBT.com]/Sherlock.Holmes.DVDRip.XviD-DiAMOND-cd1.avi
+Guessed name: Sherlock Holmes
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Into The Wild/Into the Wild CD 2.avi
+Guessed name: Into The Wild
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Road.avi
+Guessed name: Road
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Primal Fear (1996)/Primal.Fear.(1996).avi
+Guessed name: Primal Fear
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/My best friends girl.avi
+Guessed name: My best friends girl
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Ice.Princess.2005.avi
+Guessed name: Ice Princess
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Terminator Series/The Terminator/The Terminator CD2.avi
+Guessed name: The Terminator
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Wet Hot American Summer.avi
+Guessed name: Wet Hot American Summer
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/raging bull/simon-rb-xvid-int-cd2.avi
+Guessed name: raging bull
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/A Walk To Remember.avi
+Guessed name: A Walk To Remember
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Aquamarine/Aquamarine.(2006).DVDRip.XviD-DiAMOND.avi
+Guessed name: Aquamarine
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Into The Wild/Into the Wild CD 1.avi
+Guessed name: Into The Wild
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Cinderella Man (2005) [ENG] [DVDrip]/Cinderella Man (2005) [ENG] [DVDrip] CD1.avi
+Guessed name: Cinderella Man
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Mother India.mkv
+Guessed name: Mother India
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Ankhiyon Ke Jharokhon Se ~ Intense Emotions ~ [RRG]{Brego}(desibbrg.com).mp4
+Guessed name: Ankhiyon Ke Jharokhon Se Intense Emotions
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/August Rush/August Rush[2007]DvDrip[Eng]-FXG.avi
+Guessed name: August Rush
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/No Smoking/No Smoking.avi
+Guessed name: No Smoking
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/No Man's Land (2001) Nicija Zemlja/www.yubraca.net/No Man by www.yubraca.net.mp4
+Guessed name: No Man's Land
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Centurion.2010.DvDRip.AC3-FxM.avi
+Guessed name: Centurion
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Eternal Sunshine Of The Spotless Mind.avi
+Guessed name: Eternal Sunshine Of The Spotless Mind
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Eternal Sunshine of the Spotless Mind/Eternal Sunshine of the Spotless Mind (2004).avi
+Guessed name: Eternal Sunshine of the Spotless Mind
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Munich.2005.DVDRip.XviD.AR/Munich.2005.DVDRip.XviD.AR.cd1.avi
+Guessed name: Munich
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Trainspotting.1996.DVDRip.x264-VGL/Trainspotting.1996.DVDRip.x264-VGL.mkv
+Guessed name: Trainspotting
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Fight Club (1999) [ENG] [DVDrip]/Fight Club (1999) [ENG] [DVDrip] CD1.avi
+Guessed name: Fight Club
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Waitress/Waitress.DVDRip.XviD-DiAMOND.avi
+Guessed name: Waitress
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Ratatouille/Ratatouille (2007) CD1.avi
+Guessed name: Ratatouille
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Good Luck Chuck[2007][Unrated Edition]DvDrip[Eng]-FXG.avi
+Guessed name: Good Luck Chuck
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The Killing Fields (1984) DVDRip (SiRiUs sHaRe).avi/The Killing Fields (1984) DVDRip (SiRiUs sHaRe) cd1.avi
+Guessed name: The Killing Fields
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Age of Innocence - 1993 - Martin Scorsese/the age of innocence pt2.avi
+Guessed name: The Age of Innocence
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Death Proof/Death.Proof.DVDRip.XviD-DMT-cd1.avi
+Guessed name: Death Proof
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Runaway Bride (1999) Julia Roberts (QualityRip+Multisubs)_Kuth/Runaway Bride (1999) Julia Roberts (QualityRip+Multisubs)_Kuth.avi
+Guessed name: Runaway Bride
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Michael Clayton[2007][Eng][DVDRip].avi
+Guessed name: Michael Clayton
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/National Treasure 2/National.Treasure.Book.Of.Secrets.2007.DVDRiP.XViD-DiAMOND.CD2.avi
+Guessed name: National Treasure Book Of Secrets
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Entrapment/Entrapment.1999.AC3.DVDRip.XviD.CD2.avi
+Guessed name: Entrapment
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Kung Fu Panda[2008]DvDrip[Eng]-FXG/Kung Fu Panda[2008]DvDrip[Eng]-FXG.avi
+Guessed name: Kung Fu Panda
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Bourne Series/The Bourne Supremacy.avi
+Guessed name: The Bourne Supremacy
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Entrapment/Entrapment.1999.AC3.DVDRip.XviD.CD1.avi
+Guessed name: Entrapment
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Ice Age_ Dawn of the Dinosaurs (2009).divx[1].divx
+Guessed name: Ice Age Dawn of the Dinosaurs
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Raid on Entebbe/001.avi
+Guessed name: Raid on Entebbe
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Office.Space[1999]DVDRip.AC3[Eng].avi
+Guessed name: Office Space
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The Fountain/The.Fountain.DVDRip.XviD-DoNE.avi
+Guessed name: The Fountain
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Blood Simple(1984).avi
+Guessed name: Blood Simple
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/What Happens In Vegas.avi
+Guessed name: What Happens In Vegas
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/What.Happens.in.Vegas[2008]DvDrip[Eng]-D_Mania/What.Happens.in.Vegas[2008]DvDrip[Eng]-D_Mania.avi
+Guessed name: What Happens in Vegas
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Kingdom.Of.Heaven[Special.Extended.Director's.Cut]DvDrip[Eng]-aXXo/Kingdom.Of.Heaven.Part1[Special.Extended.Director's.Cut]DvDrip[Eng]-aXXo.avi
+Guessed name: Kingdom Of Heaven
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Due Date.avi
+Guessed name: Due Date
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Bommarillu - Movie/Bommarillu.TT.2006.cd1.avi
+Guessed name: Bommarillu TT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/American.Pie.Book.Of.Love.2009.DVDRip.XviD-PrisM/Aladin 2009 Hindi 1CD DVDRip x264 E-SuB xRG/Aladin 2009 Hindi 1CD DVDRip x264 E-SuB xRG.mkv
+Guessed name: Aladin
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Donnie Darko/Donnie.Darko.avi
+Guessed name: Donnie Darko
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Harry Potter and the Half Blood Prince (2009)/nedivx-hp6-cd2.avi
+Guessed name: Harry Potter and the Half Blood Prince
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Unborn [2009].avi
+Guessed name: The Unborn
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/1972 - Solyaris (Andrei Tarkovsky)/Solaris (2).avi
+Guessed name: Solyaris
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The.Good.The.Bad.And.The.Ugly.Extended.1966.512.24fps.489kbps.V5.WunSeeDee/The.Good.The.Bad.And.The.Ugly.Extended.1966.512.24fps.489kbps.V5.WunSeeDee.avi
+Guessed name: The Good The Bad And The Ugly
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Confessions of a Shopaholic[2009]DvDrip[Eng]-FXG/Confessions of a Shopaholic[2009]DvDrip[Eng]-FXG.avi
+Guessed name: Confessions of a Shopaholic
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Death Race[2008]/Death Race[2008][Unrated Edition]DvDrip[Eng]-FXG.avi
+Guessed name: Death Race
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/SLUMDOG MILLIONAIRE/Slumdog.Millionaire.DVDSCR.XviD-NoGrp.avi
+Guessed name: Slumdog Millionaire
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/State of Play/state.of.play.2009.dvdrip.xvid-amiable.cd1.avi
+Guessed name: state of play
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Hair Spray/Hairspray.2007.DVDRip.XviD-DiAMOND.CD2.avi
+Guessed name: Hairspray
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/12 Years a Slave[2013] DVDScr XviD-SaM[ETRG]/12 Years a Slave[2013] DVDScr XviD-SaM[ETRG].avi
+Guessed name: 12 Years a Slave
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Blue.Velvet[1986]DVDrip[Eng]-Kole.avi
+Guessed name: Blue Velvet
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Watchmen.DVDRip.XviD-JUMANJi-1/Watchmen.2009.DVDRip.XviD-JUMANJi-cd1.avi
+Guessed name: Watchmen
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Date Night 2010/date.night.2010.brip.xvid-imbt.avi
+Guessed name: date night
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Mean Girls/Mean Girls.avi
+Guessed name: Mean Girls
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Crank/Crank.avi
+Guessed name: Crank
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Crank/Crank.avi
+Guessed name: Crank
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Valkyrie.R5.LINE.XviD-COALiTiON/coa-v-xvid.avi
+Guessed name: Valkyrie
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Fast And Furious 6[2013]WEBRip XviD-ETRG/Fast And Furious 6[2013]WEBRip XviD-ETRG.avi
+Guessed name: Fast And Furious 6
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Dostana.avi
+Guessed name: Dostana
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Miss March 2009 UNRATED DVDRip XviD-AMIABLE/miss.march.2009.unrated.dvdrip.xvid-amiable.avi
+Guessed name: miss march
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/I.Now.Pronounce.You.Chuck.and.Larry/dmt-chuck-cd2.avi
+Guessed name: dmt-chuck
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The Killing Fields (1984) DVDRip (SiRiUs sHaRe).avi/The Killing Fields (1984) DVDRip (SiRiUs sHaRe) cd2.avi
+Guessed name: The Killing Fields
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Inception.DVDRiP.XviD-ARROW/arrow-inception.cd2.avi
+Guessed name: Inception
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Time Traveler's Wife 2009 DVDRipXviD-iMBT/the time traveler's wife dvdrip.xvid-imbt.avi
+Guessed name: The Time Traveler's Wife
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/1972 - Solyaris (Andrei Tarkovsky)/Solaris (1).avi
+Guessed name: Solyaris
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Khichdi The Movie .1Cd.DvdRip.XviD.MP3.ESubs.By.Team.SD.avi
+Guessed name: Khichdi The Movie
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/One.Missed.Call.2003.DVDRip.XviD-PoD/One.Missed.Call.2003.DVDRip.XviD-PoD.avi
+Guessed name: One Missed Call
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Hitchcock Collection/IMDB 014 - Rear Window.avi
+Guessed name: IMDB
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Get Smart/Get Smart[2008]Eng.R5.NeRoZ.avi
+Guessed name: Get Smart
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Hes.Just.Not.That.Into.You.SCR.XviD-JUMANJi/jmji-hjntiy.avi
+Guessed name: Hes Just Not That Into You SCR
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Bourne Supremacy.avi
+Guessed name: The Bourne Supremacy
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Girl Next Door (2004).avi
+Guessed name: The Girl Next Door
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Amadeus.avi
+Guessed name: Amadeus
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Age of Innocence - 1993 - Martin Scorsese/the age of innocence pt1.avi
+Guessed name: The Age of Innocence
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/American Pie 2/American Pie 2.avi
+Guessed name: American Pie 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/9 (2009) (Animated)/9 (2009) (Animated).avi
+Guessed name: 9
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Rock On.avi
+Guessed name: Rock On
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/My Boss's Daughter.avi
+Guessed name: My Boss's Daughter
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/What A Girl Wants/What A Girl Wants.avi
+Guessed name: What A Girl Wants
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Dabangg - DVDRip - XviD - 1CDRip - [DDR]/Dabangg - DVDRip - XviD - 1CDRip - [DDR].avi
+Guessed name: Dabangg
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Dabangg - DVDRip - XviD - 1CDRip - [DDR]/Dabangg - DVDRip - XviD - 1CDRip - [DDR].avi
+Guessed name: Dabangg
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Wedding Crashers.mkv
+Guessed name: Wedding Crashers
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The Manchurian Candidate/The Manchurian Candidate 1962.avi
+Guessed name: The Manchurian Candidate
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/12 Angry Men.avi
+Guessed name: Angry Men
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Twelve Angry Men [1957][IMDB 8.8]/Twelve Angry Men.avi
+Guessed name: Twelve Angry Men
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Golmaal_3_1_CD_PDVDRip_DUS.avi
+Guessed name: Golmaal 3
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Golmaal_3_1_CD_PDVDRip_DUS.avi
+Guessed name: Golmaal 3
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/all_quiet_on_the_western_front_(1930)/all_quiet_on_the_western_front_cd1.avi
+Guessed name: all quiet on the western front
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Basic.Instinct.1992/Basic Instinct CD2.avi
+Guessed name: Basic Instinct
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/dumb.and.dumber.1994.unrated.dvdrip.xvid.fragment.avi
+Guessed name: dumb and dumber
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Behind Enemy Lines/Behind Enemy Lines.avi
+Guessed name: Behind Enemy Lines
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Longest Yard(DvdDivX).divx
+Guessed name: The Longest Yard
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Switch.2010.R5.MiC.Xvid {1337x}-Noir.avi
+Guessed name: The Switch
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Phas Gaye Re Obama - DVDRip - XviD - 1CDRip - [DDR]/Phas Gaye Re Obama - DVDRip - XviD - 1CDRip - [DDR].avi
+Guessed name: Phas Gaye Re Obama
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Wall Street.avi
+Guessed name: Wall Street
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Saw Series/Saw 4.avi
+Guessed name: Saw 4
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Ratatouille/Ratatouille (2007) CD2.avi
+Guessed name: Ratatouille
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/State of Play/state.of.play.2009.dvdrip.xvid-amiable.cd2.avi
+Guessed name: state of play
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Zor_Lagaa_Ke_Haiya_2009_1CD-Pre-DVD-Rip_Xvid_xRG/Zor_Lagaa_Ke_Haiya_2009_1CD-Pre-DVD-Rip_Xvid_xRG.avi
+Guessed name: Zor Lagaa Ke Haiya
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Curse Of The Golden Flower [DVDRIP][2CDS] [GARFIELD]/Curse Of The Golden Flower CD1.avi
+Guessed name: Curse Of The Golden Flower
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Planet.Of.The.Apes.1968.Team-ND.avi/Planet of the Apes 1968@nd-warez.info.avi
+Guessed name: Planet Of The Apes
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Despicable.Me.2010.CAM.XviD-Rx/rx-despicable-me-cam.avi
+Guessed name: Despicable Me
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Dhobi.Ghat.1CD.DvD.Scr.X264-By.Guru.mkv
+Guessed name: Dhobi Ghat
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Dhobi Ghat (2011) 1CD x264 DVDScr Rip AAC ESub [DDR].mkv
+Guessed name: Dhobi Ghat
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Re-Animator.1985.DVDRiP.XViD-HORRORFLiCKS/Re-Animator.1985.DVDRiP.XViD-HORRORFLiCKS.avi
+Guessed name: Re-Animator
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Death Proof/Death.Proof.DVDRip.XviD-DMT-cd2.avi
+Guessed name: Death Proof
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Taking Of Pelham 123 (2009)/arrow-top123-cd2.avi
+Guessed name: The Taking Of Pelham 123
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/The Taking Of Pelham 123 (2009)/arrow-top123-cd2.avi
+Guessed name: The Taking Of Pelham 123
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/dirty deeds.avi
+Guessed name: dirty deeds
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Adam.2009.DVDRip.XviD/Adam (2009).avi
+Guessed name: Adam
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Untergang,Der (2004)/Der Untergang(Downfall).By HarryPotter.Cd2.avi
+Guessed name: Untergang,Der
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The Other Side/nep-theotherside-xvid.avi
+Guessed name: nep-theotherside
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Its.a.Boy.Girl.Thing.DVDRip.XviD-DoNE [ www.torrentat.org ].avi
+Guessed name: Its a Boy Girl Thing
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The Pink Panther - A Shot In The Dark/The Pink Panther - A Shot In The Dark.avi
+Guessed name: The Pink Panther
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The.Ugly.Truth.DVDSCR.XViD-CAMELOT.[www.torrentfive.com]/The.Ugly.Truth.DVDSCR.XViD-CAMELOT.avi
+Guessed name: The Ugly Truth
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Basic.Instinct.1992/Basic Instinct CD1.avi
+Guessed name: Basic Instinct
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Meet The Parents [DVDRip][2000][Eng][BugzBunny]/Meet The Parents [DVDRip][2000][Eng][BugzBunny].avi
+Guessed name: Meet The Parents
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Barah_Aana_2009_1CD-Pre-DvD-Rip_E-SUBS_xRG/Barah_Aana_2009_1CD-Pre-DvD-Rip_E-SUBS_xRG.avi
+Guessed name: Barah Aana
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Jhootha Hi Sahi - DVDScr - XviD - 1CDRip - [DDR].avi
+Guessed name: Jhootha Hi Sahi
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Another Cindrella Story/Another.Cinderella.Story.2008.STV.DVDRiP.XViD.avi
+Guessed name: Another Cinderella Story
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/American Pie 3/American Pie 3.avi
+Guessed name: American Pie 3
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/School of Rock.avi
+Guessed name: School of Rock
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Annie Hall (Woody Allen 1977) XviD DVDRip.avi
+Guessed name: Annie Hall
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Casablanca (1942).avi
+Guessed name: Casablanca
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Nacho Libre/Nacho Libre [DVDRip][Eng][2006].avi
+Guessed name: Nacho Libre
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Unthinkable 2010 DVDRip/bdz-unthkble-dvdrip-xvid.avi
+Guessed name: Unthinkable
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The Village/The Village.avi
+Guessed name: The Village
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Don(1977)/Don(1977).DVDrip.XviD.TeamTelugu.CD2.avi
+Guessed name: Don
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Lost Battalion (2001) (TV).avi
+Guessed name: The Lost Battalion
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Walk to Remember DVD SEEDERS TEAM/Where.The.Wild.Things.Are.DVDSCR.XviD-NEPTUNE/nep-wtwta-scr.avi
+Guessed name: Where The Wild Things Are
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/American.Gangster/cd2/p-ag-cd2.avi
+Guessed name: p-ag
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Layer Cake/Layer Cake (2004).avi
+Guessed name: Layer Cake
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/2005 - The Aviator (Dir. Martin Scorsese).avi
+Guessed name: The Aviator
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Wall.E.DVDRIP.KeEzDaWg/Wall.E.DVDRIP.KeEzDaWg.avi
+Guessed name: Wall E
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/The Fountainhead.avi
+Guessed name: The Fountainhead
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Hotel Rwanda/Hotel Rwanda CD2.avi
+Guessed name: Hotel Rwanda
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Swordfish.DVDRip.[DVD-Rip DivX].avi
+Guessed name: Swordfish
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Mr Brooks/Mr.Brooks.DVDRiP.XViD-HLS-CD2.[sharethefiles.com].avi
+Guessed name: Mr Brooks
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Stardust/Stardust.DVDRip.XviD-DiAMOND-cd2.avi
+Guessed name: Stardust
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The Invisible/The.Invisible.(2007).DVDRip.XviD-FLAiTE.avi
+Guessed name: The Invisible
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Curse Of The Golden Flower [DVDRIP][2CDS] [GARFIELD]/Curse Of The Golden Flower CD2.avi
+Guessed name: Curse Of The Golden Flower
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/blame it on rio (1984) [michael caine, joseph bologna, michelle johnson, demi moore].avi
+Guessed name: blame it on rio
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Alfred Hitchcock - Rope (1948)/Alfred Hitchcock - Rope (1948) DVDRip (SiRiUs sHaRe).avi
+Guessed name: Alfred Hitchcock
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Andaz Apna Apna/Andaz Apna Apna.avi
+Guessed name: Andaz Apna Apna
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Forrest Gump.avi
+Guessed name: Forrest Gump
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/La Meglio Gioventu/La Meglio Gioventu AttoII CD2.avi
+Guessed name: La Meglio Gioventu AttoII
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/500 Days Of Summer/arigold-dos-xvid.avi
+Guessed name: Days Of Summer
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/500.Days.Of.Summer.BDRip.XviD-ARiGOLD/arigold-dos-xvid.avi
+Guessed name: Days Of Summer
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Apocalypto/Apocalypto CD 2.avi
+Guessed name: Apocalypto
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Raajneeti - DVDScr - XviD - 1CDRip - [DDR].avi
+Guessed name: Raajneeti
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The Ultimate Gift/The.Ultimate.Gift.DVDRip.XviD-NeDiVx-cd2.avi
+Guessed name: The Ultimate Gift
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/MixDesi.com -Yuvvraaj  2008  1CD  Pre-DVDRip  E-Subbs  XviD  .avi
+Guessed name: MixDesi com
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Agora/Agora.Cd2-iKA.avi
+Guessed name: Agora
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The.Replacements.2000.DVDRip.XviD.iNT-PFa/CD1/the.replacements.cd1-pfa.avi
+Guessed name: The Replacements
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Benhur/Ben Hur CD 1 of 2.avi
+Guessed name: Ben Hur
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Manchurian.Candidate.DVDRip.XviD-Ice.ogm
+Guessed name: Manchurian Candidate
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Four Weddings and a Funeral (1994) Hugh Grant (Opt.MULTISUBS)_Kuth.avi
+Guessed name: Four Weddings and a Funeral
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Pirates.of.Silicon.Valley.1999.DVDRip.XviD-FiNaLe/The.Pirates.of.Silicon.Valley.1999.DVDRip.XviD-FiNaLe.avi
+Guessed name: The Pirates of Silicon Valley
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Terminator Series/The Terminator 2/Terminator 2 - Ultimate Edition CD 2.avi
+Guessed name: Terminator 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/B4 Sunrise/Before.Sunrise.avi
+Guessed name: Before Sunrise
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Dev D[2009]/Dev.D[2009]DVDRip[Hindi]-SaM.avi
+Guessed name: Dev D
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Kabhi.Alvida.Naa.Kehna.2006.DVDRip.XviD-SaM/Kabhi.Alvida.Naa.Kehna.2006.DVDRip.XviD-SaM.avi
+Guessed name: Kabhi Alvida Naa Kehna
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Bourne Identity.avi
+Guessed name: The Bourne Identity
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Bourne Series/The Bourne Identity.avi
+Guessed name: The Bourne Identity
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Independence Day/independence day.avi
+Guessed name: Independence Day
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/From Hell/From Hell.avi
+Guessed name: From Hell
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/9.Songs.UNRATED.2004.DVDRip.XviD-VoMiT/9.Songs.UNRATED.2004.DVDRip.XviD-VoMiT.avi
+Guessed name: 9 Songs
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Yeh Saali Zindagi 2011 Hindi Movie Good Quality - rDX With Sample.avi
+Guessed name: Yeh Saali Zindagi
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Reservoir Dogs_1992_DVDrip_XviD-Ekolb/Reservoir Dogs_1992_DVDrip_XviD-Ekolb.avi
+Guessed name: Reservoir Dogs
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Star Trek movies/Star Trek 7 -Generations.avi
+Guessed name: Star Trek 7
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/La Meglio Gioventu/La Meglio Gioventu AttoII CD1.avi
+Guessed name: La Meglio Gioventu AttoII
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Underworld/Underworld - Rise of the lycans [2009] DVD.Sceener.avi
+Guessed name: Underworld
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Schindlers List/CD2/Schindlers.List.1993.INTERNAL.DVDRip.XviD.2-PARTiCLE.[www.descargasweb.net].avi
+Guessed name: Schindlers List
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Terms_of_Endearment_stereo/Terms_of_Endearment_Stereo.avi
+Guessed name: Terms of Endearment
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The.Replacements.2000.DVDRip.XviD.iNT-PFa/CD2/the.replacements.cd2-pfa.avi
+Guessed name: The Replacements
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/The Girl (Trilogy)/The Girl Who Kicked The Hornets Nest (2009)/CD2/tgwkthn.dubbed.cd2-taste.avi
+Guessed name: The Girl Who Kicked The Hornets Nest
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/La Meglio Gioventu/La Meglio Gioventu AttoI CD2.avi
+Guessed name: La Meglio Gioventu AttoI
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Memento (2000).avi
+Guessed name: Memento
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/La Meglio Gioventu/La Meglio Gioventu AttoI CD1.avi
+Guessed name: La Meglio Gioventu AttoI
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/American pie 5 - the naked mile/American Pie 5 - The Naked Mile.avi
+Guessed name: American Pie 5
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Yamla Pagla Deewana - DVDScr - XviD - 1CDRip - [DDR].avi
+Guessed name: Yamla Pagla Deewana
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Serendipity.avi
+Guessed name: Serendipity
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Paa.2009.1CD.PDVDRip.XviD [DesiBBrG.com].avi
+Guessed name: Paa
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Original.Sin.Divx3.2001/Original Sin.DVD-DiVX.avi
+Guessed name: Original Sin Div
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Anj.Anjni.1CD.DvD.Mp3.XviD-By.Guru.avi
+Guessed name: Anj Anjni
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Ajab Prem Ki Ghazab Kahani (2009).avi
+Guessed name: Ajab Prem Ki Ghazab Kahani
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Star Wars Collection/IV-A.New.Hope[1977]DvDrip-aXXo.avi
+Guessed name: A New Hope
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Star Wars Collection/IV-A.New.Hope[1977]DvDrip-aXXo.avi
+Guessed name: A New Hope
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/all_quiet_on_the_western_front_(1930)/all_quiet_on_the_western_front_cd2.avi
+Guessed name: all quiet on the western front
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Dil To Baccha Hai Ji (2011) 1CD DVDScr Rip SUBs(www.mastitorrents.com).avi
+Guessed name: Dil To Baccha Hai Ji
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Lock Stock &amp; Two Smoking Barrels/Lock Stock.avi
+Guessed name: Lock Stock
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Heat.avi
+Guessed name: Heat
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Anger Management/Anger Management.avi
+Guessed name: Anger Management
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Magnolia.avi
+Guessed name: Magnolia
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Bourne Series/The Bourne Ultimatum [2007].avi
+Guessed name: The Bourne Ultimatum
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Che Part 2.avi
+Guessed name: Che
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/remember the titans/Remember The Titans.avi
+Guessed name: Remember The Titans
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Bend.It.Like.Beckham.2002.DVDRip.x264.aac/Bend.It.Like.Beckham.2002.DVDRip.mkv
+Guessed name: Bend It Like Beckham
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Untouchables/The Untouchables.avi
+Guessed name: The Untouchables
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/310 to Yuma (2007)/310 to Yuma (2007).avi
+Guessed name: 310 to Yuma
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/It Happened One Night (won all 5 major oscars starring Clarke Gable)/It Happened One Night(1934).avi
+Guessed name: It Happened One Night
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/IMDB 072 - Double indemnity (1944).avi
+Guessed name: IMDB 072
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/What Women Want/What Women Want.avi
+Guessed name: What Women Want
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/From Hell (Jack The Ripper)(Johnny Depp, Heather Graham).avi
+Guessed name: From Hell
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/American Pie 1/American Pie 1.avi
+Guessed name: American Pie 1
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/IMDB 032 - American Beauty.avi
+Guessed name: IMDB
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Golmaal.2006.avi
+Guessed name: Golmaal
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Gladiator/Gladiator.avi
+Guessed name: Gladiator
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/October Sky/October Sky.avi
+Guessed name: October Sky
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Cheaper By The Dozen/Cheaper By The Dozen-BY-www.cashtr.com.avi
+Guessed name: Cheaper By The Dozen-BY
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/ANGOOR/1/AVSEQ02.DAT
+Guessed name: AVSEQ02 DAT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Groundhog Day.avi
+Guessed name: Groundhog Day
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Gone With The Wind/Gone With The Wind (1939)2 Mechodownload.com.avi
+Guessed name: Gone With The Wind
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Fools Rush In (1997).divx
+Guessed name: Fools Rush In
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Gone With The Wind/Gone With The Wind (1939)1 Mechodownload.com.avi
+Guessed name: Gone With The Wind
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Hitchcock Collection/Psycho.Xvid.AVI
+Guessed name: Psycho
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Titan AE.avi
+Guessed name: Titan AE
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Roman Holiday.avi
+Guessed name: Roman Holiday
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Love In December - IIT Play.avi
+Guessed name: Love In December
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/U-571/U-571.avi
+Guessed name: U
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/All The Best (2009) 1 CD DVDRiP SuB D3SiFRieND M2Tv.avi
+Guessed name: All The Best
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/All The Best (2009) 1 CD DVDRiP SuB D3SiFRieND M2Tv/All The Best (2009) 1 CD DVDRiP SuB D3SiFRieND M2Tv.avi
+Guessed name: All The Best
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Disney's Hercules.avi
+Guessed name: Disney's Hercules
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Benhur/Ben Hur CD 2 of 2.avi
+Guessed name: Ben Hur
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/happy gilmore.avi
+Guessed name: happy gilmore
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/Hansel.and.Gretel.Witch.Hunters.2013.DVDRip.XviD-P2P/Hansel.and.Gretel.Witch.Hunters.2013.DVDRip.XviD-P2P.avi
+Guessed name: Hansel and Gretel Witch Hunters
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/school of rock/SCHOOL OF ROCK 1.MPG
+Guessed name: SCHOOL OF ROCK 1
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Legally Blonde/Legally Blonde.avi
+Guessed name: Legally Blonde
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Unbreakable (M Night Shyamalan)/Unbreakable CD-01.avi
+Guessed name: Unbreakable
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Harry Potter and the Deathly Hallows Part 1.avi
+Guessed name: Harry Potter and the Deathly Hallows
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Scent Of A Woman.avi
+Guessed name: Scent Of A Woman
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/scent of a woman/scent of a woman.avi
+Guessed name: scent of a woman
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/ANGOOR/2/AVSEQ03.DAT
+Guessed name: AVSEQ03 DAT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Hannibal/[www.Forumw.org].HANNIBAL.avi
+Guessed name: Hannibal
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Halo.Wars.2009 (Animated)/Halo.Wars.2009.DVDRip.XviD-ViSiON.avi
+Guessed name: Halo Wars
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/JERSEY GIRL/VTS_03_1.avi
+Guessed name: VTS
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/I Know What You Did Last Summer Thrillogy/I Still Know What You Did Last Summer.mp4
+Guessed name: I Still Know What You Did Last Summer
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Apocalypto.rmvb
+Guessed name: Apocalypto rmvb
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Devil wears prada/MPEGAV/DWP 2.DAT
+Guessed name: DWP 2 DAT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Devil wears prada/MPEGAV/DWP 1.DAT
+Guessed name: DWP 1 DAT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/JERSEY GIRL/VTS_03_2.avi
+Guessed name: VTS
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/frailty/knunbrjaueus.avi
+Guessed name: knunbrjaueus
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/I Know What You Did Last Summer Thrillogy/I Know What You Did Last Summer.mp4
+Guessed name: I Know What You Did Last Summer
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Fight Club.avi
+Guessed name: Fight Club
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Sinbad - Legend of the Seven Seas/AVSEQ01.dat
+Guessed name: AVSEQ01 dat
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/The Omen/Part-II.DAT
+Guessed name: DAT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/SwordFish/avesq1.DAT
+Guessed name: avesq1 DAT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Hindi/Khosla Ka Ghosla/2/MPEGAV/AVSEQ04.DAT
+Guessed name: AVSEQ04 DAT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Double Identity (2010).avi
+Guessed name: Double Identity
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/James Bond Collection/1999 - The World Is Not Enough/The World Is Not Enough [1999] [CD1].avi
+Guessed name: The World Is Not Enough
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/SwordFish/avesq2.DAT
+Guessed name: avesq2 DAT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Blue Streak/Blue Streak_part2.DAT
+Guessed name: Blue Streak
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Public Enemies.mkv
+Guessed name: Public Enemies
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/The Girl (Trilogy)/The Girl With The Dragon Tattoo(2009)/Girl.With.The.Dragon.Tattoo.2009.x264.mkv
+Guessed name: The Girl With The Dragon Tattoo
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Godfather Collection Parts 1-3 '72-'90 DvDrip[Eng]-greenbud1969/The Godfather Part II Disc 1 1974/The Godfather Part II Disc 2 1974 DvDrip[Eng]-greenbud1969.avi
+Guessed name: The Godfather
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/euro trip.avi
+Guessed name: euro trip
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Deja Vu/Deja Vu.rmvb
+Guessed name: Deja Vu rmvb
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/school of rock/SCHOOL OF ROCK 2.MPG
+Guessed name: SCHOOL OF ROCK 2
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/Transformers.mp4
+Guessed name: Transformers
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/The Informant.mkv
+Guessed name: The Informant
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/District.9.2009/District.9.2009.mkv
+Guessed name: District 9
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/not required/Nrnia3.2010.TS_mediafiremoviez.com.mkv
+Guessed name: Nrnia3
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Road To Perdition.mkv
+Guessed name: Road To Perdition
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Meet The Fockers.rmvb
+Guessed name: Meet The Fockers rmvb
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Its.Complicated.2010/Its.Complicated.2010.DVDRSCR.H264[PC.Mac.Xbox.PS3.ipod].mp4
+Guessed name: Its Complicated
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/OC/2/VIDEO_TS/VTS_01_5.VOB
+Guessed name: VTS
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/James Bond Collection/1979 - Moonraker/Moonraker [1979] [CD1].avi
+Guessed name: Moonraker
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Comedy Now Uncensored - Russell Peters - Show Me The Funny.avi
+Guessed name: Comedy Now Uncensored
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched Normal Resolution/Caprica.S01E09.End.of.Line.HDTV.XviD-FQM - [ www.torrentday.com ]/caprica.s01e09.hdtv.xvid-fqm/caprica.s01e09.hdtv.xvid-fqm.avi
+Guessed name: Caprica
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/James Bond Collection/1963 - From Russia With Love/From Russia With Love [1963] [CD2].AVI
+Guessed name: From Russia With Love
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/James Bond Collection/1987 - The Living Daylights/The Living Daylights [1987] [CD2].AVI
+Guessed name: The Living Daylights
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Tngled.2010.TS_mediafiremoviez.com.mkv
+Guessed name: Tngled
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Animation movies/Planet 51 (2009) DVDR5 - 300MB - ShAaNiG.mkv
+Guessed name: Planet 51
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Sinbad - Legend of the Seven Seas/AVSEQ04.dat
+Guessed name: AVSEQ04 dat
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/JFK (1991)/JFK (1991) - CD1/JFK (1991) - CD1.avi
+Guessed name: JFK
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Others/righteous kills/part2/MPEGAV/AVSEQ01.DAT
+Guessed name: AVSEQ01 DAT
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/new ones/BERMUDA TRIANGLE/Bermuda Triangle - Startling New Secrets.avi
+Guessed name: Bermuda Triangle
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/Movies/Walk to Remember DVD SEEDERS TEAM/VIDEO_TS/VTS_01_0.VOB
+Guessed name: VTS
+====================
+filepath: /mnt/seagate2tb/DATA/Movies/English/Watched High Resolution/Unbreakable (M Night Shyamalan)/Unbreakable CD-02.avi
+Guessed name: Unbreakable
