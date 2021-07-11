@@ -2,3 +2,5 @@
 *.pyc
 *.swp
 *.log
+__pycache__
+.idea

@@ -1,0 +1,20 @@
+class SshProcessor:
+     def getMenuItems(self, typeOfMenu, context):
+         return  [{"menuDesc":"New"}]
+     def getThreshold(self, typeOfMenu, context):
+         return 30
+     def executeAction(self, choice):
+         print "ssh-ing to server",choice["menuDesc"]
+     def manipulateChoice(self, choice):
+         if choice["menuDesc"] != "New":
+             return choice
+         confirm = False
+         while not confirm:
+             print "Enter new config:: "
+             ip = raw_input('Enter ip: ')
+             alias = raw_input('Enter nickname (Leave blank for none): ')
+             verification = raw_input('Verify(y/n): ')
+             confirm = verification.lower() in ['','y','yes','yee','ye','yeah']
+         return {"menuDesc":ip + " - " + alias, "ip":ip,"alias":alias}
+     def commandToRun(self, choice):
+         return "ssh " + choice["ip"]
