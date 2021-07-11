@@ -20,6 +20,8 @@ Make sure you are using Python3
 Install gitpython (required for git menus)
 pip3 install gitpython
 
+Setup SQLITE DB by calling python init.py
+
 Sample aliases - 
 
 alias gh="rm -f /tmp/menu_command.sh ; python3 generate_menu.py --type=folder --context=`pwd`; eval \`cat /tmp/menu_command.sh\` ; rm /tmp/menu_command.sh"
