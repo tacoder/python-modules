@@ -32,7 +32,7 @@ create table if not exists config (
 def getRecentItems(typeOfMenu, context):
     conn = sqlite3.connect(SQLITE_DB)
     c = conn.cursor()
-    dbEntries = c.execute('select distinct config_type, context, value from (select distinct config_type, context, value, created, sum(1/ (julianday(datetime(\'now\')) - julianday(created))) value from usage_log where config_type=? and context=? and created > datetime(\'now\', \'-30 days\')  group by value order by 5 desc );',(typeOfMenu, context)).fetchall()
+    dbEntries = c.execute('select distinct config_type, context, value from (select distinct config_type, context, value, created, sum(1/ (julianday(datetime(\'now\')) - julianday(created))) from usage_log where config_type=? and context=? and created > datetime(\'now\', \'-30 days\')  group by value order by 5 desc );',(typeOfMenu, context)).fetchall()
     #dbEntries = c.execute('select distinct config_type, context, value from usage_log where config_type=? and context=? order by created desc',(typeOfMenu, context)).fetchall()
     return [ json.loads(x[2]) for x in dbEntries ]
  #  return [{"menuDesc":"RecentFirst"},{"menuDesc":"RecnetSecond"},{"menuDesc":"RThird"}]
